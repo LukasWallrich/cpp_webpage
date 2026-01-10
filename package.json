@@ -1,0 +1,12 @@
+{
+  "name": "cpp-prep-materials",
+  "version": "1.0.0",
+  "description": "MSc Management Consultancy & Professional Practice prep materials",
+  "scripts": {
+    "fetch-oa": "node fetch-oa-links.js",
+    "fetch-oa:force": "node fetch-oa-links.js --force",
+    "serve": "npx serve"
+  },
+  "author": "Lukas Wallrich",
+  "license": "MIT"
+}
