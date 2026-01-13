@@ -1,13 +1,20 @@
 ## 4. Academic perspectives on consultancy
 
-:::audio
-Part 4: Why study consultancy critically?
-~10 minutes
-- Multiple lenses for understanding consultancy: knowledge vehicles, organisations, professions, processes
-- The "witch doctors" debate and performative aspects of consulting
-- Uncertainty: consultants reduce it; but they also intensify it
-- Principal-agent problems and information asymmetries
-- Why critical thinking makes you a better consultant
+:::video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2wGtai74I70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="presentations/04-academic-perspectives.pptx" class="download-btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  Download slides (PPTX)
+</a>
+
+Part 4: Why study consultancy critically? (~10 minutes)
+- The dating platform problem: structural incentives in consulting
+- Witch doctors, magicians, seducers: why performance matters
+- Double agency and the lemons problem
+- Creating uncertainty: threat of damnation, promise of salvation
+- What the evidence actually shows about consulting impact
+- Critical thinking as a professional skill, not cynicism
 :::
 
 ### Why a critical perspective?

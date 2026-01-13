@@ -4,7 +4,13 @@
       "Bash(curl:*)",
       "Skill(summarise-pdf)",
       "Skill(summarise-pdf:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(pipx list:*)",
+      "Bash(node create-pptx.js:*)",
+      "Bash(npm install:*)"
     ]
   }
 }

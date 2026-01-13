@@ -269,6 +269,74 @@ a {
   color: var(--color-text-secondary);
 }
 
+/* Video card */
+.video-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+.video-card .video-embed {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #000;
+}
+
+.video-card .video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.video-card .video-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.video-card .video-title {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 1rem;
+  flex: 1;
+  min-width: 200px;
+}
+
+.video-card .download-btn {
+  flex-shrink: 0;
+}
+
+.video-card .video-topics {
+  padding-top: 1rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.video-card .video-topics summary {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+}
+
+.video-card .video-topics ul {
+  margin: 0.75rem 0 0 1.25rem;
+  font-size: 0.9rem;
+  color: var(--color-text-secondary);
+}
+
 /* Key concept boxes */
 .concept-box {
   background: var(--color-surface);

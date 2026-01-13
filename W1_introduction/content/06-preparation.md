@@ -3,17 +3,23 @@
 The live session will focus on discussion, not additional lecture content. Come ready to engage with these questions:
 
 - **What makes for an effective consultant?** Draw on the readings and your own experience.
-- **What are the main differences between internal and external consultancy?** What are the advantages and challenges of each?
 - **From the readings:** What most surprised you about consultancy as presented by Block, Sturdy, or O'Mahoney?
 - **What should a "critical perspective" on consultancy focus on?** How might this help us as practitioners?
 
 :::checklist
-- Listen to or read through the three content sections
+- Watch the videos and skim through the four content sections
 - Complete the Block chapters (or O'Mahoney alternative)
 - Read the Sturdy (2011) article
 - Review at least two of the academic source summaries that interest you
-- Reflect on where you sit on the consultancy continuum
 - Note any questions about the content for the live session
+:::
+
+:::reflect
+Looking ahead to the full module, what are your development goals? Consider:
+- **Skills**: Which consultancy skills do you most want to develop—contracting, diagnosis, stakeholder management, implementation?
+- **Personal growth**: What aspects of working with influence (rather than authority) do you find most challenging?
+- **Roles**: Which of the four consultant roles would you like to strengthen? Or, more generally, how do you want to show up as a consultant?
+- What would "success" in this module look like for you professionally?
 :::
 
 ### Looking ahead

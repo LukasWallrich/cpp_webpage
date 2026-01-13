@@ -1,90 +1,98 @@
 # Recording 3: The Roles Consultants Play
 
-**Duration:** ~5 minutes
+**Duration:** ~7 minutes
 **Slides:** 5
-**Core message:** Four roles you'll move between—know which one you're in, and make sure your client agrees.
+**Core message:** Know which role you're in—and make sure your client agrees.
 
 ---
 
-## Slide 1: Title
-**Visual:** Title slide
+## Slide 1: Opening Story
 
-**Talking points:**
-- Brief recording—but crucial concepts
-- Not all consulting looks the same
-- Understanding roles helps you navigate expectations
+**Visual:** M&A or due diligence imagery
 
----
+**[Presenter's personal story]:**
+Set up from your experience on M&A due diligence teams—the ambiguity about what the client actually wants from you. Are you there to give an honest assessment? To validate a decision that's already been made? To provide cover if things go wrong?
 
-## Slide 2: Four Consultant Archetypes
-**Visual:** 2x2 grid with icons and descriptions
+The brief rarely says. And asking directly can feel awkward.
 
-| Role | Description |
-|------|-------------|
-| 🔧 **Plumber** | Expert pair-of-hands. Solve a defined problem with specialist skills. |
-| 🩺 **Doctor** | Diagnose the issue, prescribe a solution. Client trusts your expertise. |
-| 🧭 **Advisor** | Strategic partner. Support client's own problem-solving; they retain ownership. |
-| 🗺️ **Navigator** | Guide through change. Focus on implementation and stakeholder management. |
-
-**Talking points:**
-- Four archetypes, adapted from Schein's work
-- **Plumber**: Problem is defined, you fix it. Technical expertise.
-- **Doctor**: You diagnose what's wrong and prescribe. Client defers to your judgement.
-- **Advisor**: You help them think through options; they decide. Partnership model.
-- **Navigator**: You guide them through implementing a decision. Change management.
+This recording is about learning to read what's actually being asked—and why that matters for how you do the work.
 
 ---
 
-## Slide 3: Flexibility Is Key
-**Visual:** Circular diagram showing movement between roles
+## Slide 2: Four Roles
+
+**Visual:** 2x2 grid with icons: Plumber, Doctor, Advisor, Navigator
 
 **Talking points:**
-- These aren't fixed identities—you'll shift within a single engagement
-- Start as Doctor (diagnosis), become Navigator (implementation)
-- Or: client asks for Plumber, actually needs Advisor
-- Critical skill: knowing which role you're in at any moment
-- Danger: misalignment with client expectations
-- Best practice: discuss roles explicitly during contracting
+
+- **Plumber**: Fix the defined problem. They know what's broken; you have the skills.
+- **Doctor**: Diagnose what's wrong. They trust your expertise to identify the issue.
+- **Advisor**: Help them think. You support their problem-solving; they own the decision.
+- **Navigator**: Guide through change. The decision is made; you help make it happen.
+
+**Key point:**
+You'll move between these in a single engagement. The skill is noticing when the role shifts—and when there's a mismatch between what they're asking for and what they actually need.
 
 ---
 
-## Slide 4: Internal vs External Consultants
-**Visual:** Two-column comparison
+## Slide 3: Why They Hire You
 
-| Internal Consultants | External Consultants |
-|---------------------|---------------------|
-| + Organisational knowledge | + Fresh perspective |
-| + Established relationships | + Perceived independence |
-| + Ongoing accountability | + Easier to challenge |
-| − Embedded in politics | − Learning curve on context |
-| − Often by mandate not choice | − May exit before impact clear |
-| − May breed caution | − Trust must be built quickly |
+**Visual:** Five reasons (green/amber/red traffic light)
 
 **Talking points:**
-- Block: internals face same challenges, but with more intensity
-- Embedded in hierarchy—boss to satisfy plus client to serve
-- Often assigned rather than chosen—neither party fully committed
-- Risk of honest feedback—they're stuck with consequences
-- This breeds caution → "pair of hands" usage over time
-- But also: deep knowledge, ongoing relationships, accountability
+
+Three straightforward reasons:
+- **Capacity**: They need more hands
+- **Expertise**: They need specialist knowledge
+- **Independence**: They need an outside perspective
+
+Two trickier ones:
+- **Validation**: They've already decided; they want external credibility
+- **Blame**: If it goes wrong, they need someone to point at
+
+**Key insight:**
+The stated reason often differs from the actual reason. "We need an independent review" sometimes means "we need someone credible to agree with us." Understanding this isn't cynicism—it's professional awareness.
 
 ---
 
-## Slide 5: Internal Consultant Identity (Wright 2009)
-**Visual:** Table of preferred vs spoiled identities
+## Slide 4: Surfacing the Hidden Brief
 
-| Boundary | Preferred identity | Spoiled identity |
-|----------|-------------------|------------------|
-| Structural | Change agent, trusted adviser | Administrator, "fix-it person" |
-| Knowledge | Expert, professional | Service provider, impractical |
-| Political | Player, organisational conscience | Outsider, functionary |
-| Interpersonal | Colleague, confidant | Loner, outcast |
+**Visual:** Three key questions
+
+**Story to tell:**
+The best consultants have conversations during contracting that surface what's really being asked. Not confrontationally, but curiously.
+
+*"What would success look like?"*—if they describe a specific outcome, they may want validation rather than open analysis.
+
+*"Who else has looked at this?"*—if there have been internal debates, you may be a tiebreaker or a scapegoat.
+
+*"What happens if my findings surprise you?"*—this tests whether they're genuinely open to diagnosis.
+
+These conversations are uncomfortable. But having them early prevents worse discomfort later.
+
+---
+
+## Slide 5: Internal Consultants
+
+**Visual:** Brief comparison or key tension
 
 **Talking points:**
-- Wright's research: internal consultants actively manage how they're perceived
-- Tension between how they want to be seen and how they fear being seen
-- Key insight: ambiguity can be strength or vulnerability
-- Claim both specialist expertise AND intimate organisational knowledge
-- Or: dismissed as impractical theorist OR too embedded to be objective
-- Success = actively managing these identity tensions
-- Reflection: which role feels natural? Which would you like to develop?
+
+Same dynamics apply to internal consultants—HR partners, change teams, internal strategy. But with higher stakes: you can't walk away, the client is also a colleague, and your reputation follows you.
+
+Research by Wright found internal consultants constantly managing how they're perceived. They want to be trusted advisers; they fear being seen as administrators or "fix-it people."
+
+The same role-and-reason questions matter. But the politics make them harder to ask.
+
+---
+
+## Slide 6: Your Reflection
+
+**Visual:** Question prompt
+
+> Think about a consulting engagement you've experienced. What role were you asked to play? What role did they actually need? Did the stated reason match the real motivation?
+
+**Bridge:**
+The written materials detail the four roles and Wright's research on internal consultant identity.
+
+Final recording: why academic researchers are often sceptical about consultancy—and why that scepticism makes you better at the job.

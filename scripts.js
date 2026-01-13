@@ -179,6 +179,48 @@ function processCustomBlocks(markdown) {
     }
   );
 
+  // Video cards - with embedded YouTube and download button
+  markdown = markdown.replace(
+    /:::video\s*\n([\s\S]*?)\n:::/g,
+    (match, content) => {
+      // Extract iframe
+      const iframeMatch = content.match(/<iframe[^>]*>.*?<\/iframe>/s);
+      const iframeHtml = iframeMatch ? iframeMatch[0] : '';
+
+      // Extract download button (may span multiple lines)
+      const downloadMatch = content.match(/<a\s+href="[^"]*"[^>]*class="download-btn"[^>]*>[\s\S]*?<\/a>/);
+      const downloadBtnHtml = downloadMatch ? downloadMatch[0] : '';
+
+      // Extract title and topics from remaining lines
+      const lines = content.trim().split('\n');
+      let titleLine = '';
+      const topicLines = [];
+
+      for (const line of lines) {
+        const trimmedLine = line.trim();
+        if (trimmedLine.startsWith('Part ') || (trimmedLine.match(/^[A-Z]/) && !trimmedLine.startsWith('<') && !trimmedLine.startsWith('-'))) {
+          if (!titleLine) titleLine = trimmedLine;
+        } else if (trimmedLine.startsWith('- ')) {
+          topicLines.push(trimmedLine);
+        }
+      }
+
+      const topics = topicLines.map(l => `<li>${marked.parseInline(l.slice(2))}</li>`).join('');
+
+      return `
+<div class="video-card">
+  <div class="video-embed">
+    ${iframeHtml}
+  </div>
+  <div class="video-meta">
+    <div class="video-title">${marked.parseInline(titleLine)}</div>
+    ${downloadBtnHtml}
+  </div>
+  ${topics ? `<details class="video-topics"><summary>What's covered</summary><ul>${topics}</ul></details>` : ''}
+</div>`;
+    }
+  );
+
   // Key definitions
   markdown = markdown.replace(
     /:::definition\s*\n([\s\S]*?)\n:::/g,

@@ -1,128 +1,93 @@
 # Recording 2: The Consulting Industry Today
 
 **Duration:** ~10 minutes
-**Slides:** 9-10
-**Core message:** A $300bn industry facing disruption—understanding the landscape helps you navigate it.
+**Slides:** 6-7
+**Core message:** A $300bn industry that's more fragmented than it looks—and facing its biggest disruption in decades.
 
 ---
 
-## Slide 1: Title
-**Visual:** Title slide
+## Slide 1: What Does $300 Billion Look Like?
 
-**Talking points:**
-- Now we understand what consultancy is, let's look at the industry
-- Important context whether you want to work in consulting or work with consultants
+**Visual:** Pyramid showing 2% large firms, 5% mid-size, 8% small, 85% freelancers
 
----
+**Story to tell:**
+When people say "the consulting industry," they picture McKinsey. Glass towers. Sharp suits. But here's what the industry actually looks like:
 
-## Slide 2: Industry Size and Structure
-**Visual:** Pyramid diagram showing firm sizes (2% large, 5% mid, 8% small, 85% freelancers)
+85% of consulting firms are one person. Freelancers. Independents. The vast majority of the industry is someone with expertise and a laptop.
 
-**Talking points:**
-- Global market ~$300 billion (2024)—though definitions vary widely
-- For context: Law industry ~$900bn, Staffing ~$400bn
-- Striking structure: 85% of firms are freelancers/sole practitioners
-- But large firms dominate revenue
-- "Consulting" means very different things at different scales
+The big firms dominate the headlines and the revenue. But the actual structure? It's an iceberg, and most of it is underwater.
+
+**Why this matters:**
+Your path into consulting isn't necessarily through a graduate scheme. And if you're a client, the question isn't just "McKinsey or BCG?"—it might be "senior partner from a big firm, or the specialist freelancer who's done this exact thing fifteen times?"
 
 ---
 
-## Slide 3: The Major Players
-**Visual:** Three columns with logos: Big 4 / Big 3 (MBB) / Tech firms
+## Slide 2: Not a Global Industry
 
-| Big 4 Accountancies | Big 3 Strategy | Tech/Implementation |
-|---------------------|----------------|---------------------|
-| Deloitte, PwC, EY, KPMG | McKinsey, BCG, Bain | Accenture, IBM, CGI |
-| $15-30bn advisory revenue | $7-16bn total revenue | $20-35bn consulting revenue |
+**Visual:** World map or bar chart showing geographic concentration
 
-**Talking points:**
-- Three main categories of large players
-- Big 4: Started in audit, expanded to consulting; broader service mix
-- MBB: Premium strategy work, C-suite focus, highest fees per consultant
-- Tech firms: Implementation focus, technology transformation
-- Different business models, different value propositions
+**Story to tell:**
+Here's another surprise: 70% of global consulting fees come from just five countries—USA, UK, Germany, France, Canada. That's far higher than their share of global GDP.
+
+This isn't just about wealth. Consulting as we know it is a distinctly Anglo-American pattern. Some cultures build knowledge-sharing into industry associations or government institutions. Others develop talent internally rather than importing it. The demand for external advice isn't natural—it's shaped by how a country's economy and culture are organised.
+
+**Why this matters:**
+When you work internationally, don't assume consulting works the same way everywhere. What's normal in London may feel foreign in Tokyo or Seoul.
 
 ---
 
-## Slide 4: Beyond the Giants
-**Visual:** Icons or examples for each category
+## Slide 3: December 2025
 
-**Talking points:**
-- Boutique consultancies: specialist by sector (Putnam—healthcare) or function (Korn Ferry—HR)
-- Professional bodies with advisory arms (CIPD)
-- Academic-linked consultancies (Affinity Health at Work)
-- Freelancers and interim managers—growing segment
-- Internal consultants—often overlooked but significant
+**Visual:** News headline about McKinsey layoffs
 
----
+**Story to tell:**
+In December 2025, McKinsey—the firm that practically invented modern consulting—announced it would cut roughly 10% of its workforce over the next two years.
 
-## Slide 5: Geographic Concentration
-**Visual:** World map or bar chart showing: 70% of fees from 5 countries
+This wasn't just a market downturn. Something structural is shifting.
 
-**Talking points:**
-- USA, UK, Germany, France, Canada generate 70% of global fees
-- Not just about wealth—cultural factors matter
-- Sturdy & O'Mahoney framework: push factors (supply) vs pull factors (demand)
-- Some economies are more receptive to external advice
+For decades, consulting firms ran on a pyramid: hire lots of juniors, have them do the analytical heavy lifting, bill them out at junior rates while partners win business. The juniors who survived got promoted; the rest left. Up or out.
+
+AI is collapsing that model. The analytical work that trained junior consultants—building Excel models, synthesising research, writing first drafts—is increasingly automated. Clients are doing it themselves. The pyramid's base is shrinking.
 
 ---
 
-## Slide 6: The Japan Puzzle
-**Visual:** Japan flag or map with key stats
+## Slide 4: Where Value Is Moving
 
-**Talking points:**
-- Japan: large economy, but relatively small consulting market
-- Why? Framework helps explain:
-  - Communitarian culture values building internal capability
-  - Fewer US-style MBA programmes
-  - State and industry associations provide alternatives
-- Interesting pattern: higher spend on HR consulting (25%), lower on strategy (5%)
-- Same framework applies to industries and individual organisations
+**Visual:** Simple arrow diagram: "What to do" → "How to do it"
 
----
+**Story to tell:**
+Here's the pattern in the numbers: implementation-focused firms—Accenture, Deloitte, the technology consultancies—have been growing roughly twice as fast as pure strategy firms.
 
-## Slide 7: Fees Across Segments
-**Visual:** Scatter plot showing revenue per consultant vs firm size (from lecture slides)
+The information advantage that justified premium strategy fees is eroding. Clients have access to the same data, the same frameworks, often the same former consultants working in-house.
 
-**Talking points:**
-- Strategy boutiques and MBB: highest fees per consultant
-- Tech firms and Big 4: more consultants, lower average fees
-- Freelancers: wide range
-- What you charge depends on what you're selling and to whom
+What's harder to replicate: actually making change happen. Managing stakeholders. Running complex programmes. Getting people to do things differently.
+
+**Key insight:**
+If you're building a consulting career, the question isn't just "what do I know?" It's "can I help people act on what they know?" That's where value is shifting.
 
 ---
 
-## Slide 8: Current Disruption
-**Visual:** Headlines: McKinsey layoffs, AI disruption, Christensen prediction
+## Slide 5: The Scrutiny Problem
 
-**Talking points:**
-- Christensen (2013) predicted consulting was "on the cusp of disruption"
-- December 2025: McKinsey announced ~10% workforce cuts
-- Information asymmetry collapsing—AI gives clients direct access to analysis
-- Traditional pyramid model under pressure
-- Value shifting from "what to do" → "how to implement"
+**Visual:** Brief headlines: McKinsey opioids, PwC tax scandal, Deloitte AI billing
 
----
+**Story to tell:**
+The industry is also facing questions it hasn't had to answer before.
 
-## Slide 9: Increasing Scrutiny
-**Visual:** News headlines about scandals
+McKinsey paid $650 million to settle claims over its work advising opioid manufacturers. PwC in Australia saw partners share confidential tax information. Consultants have been caught billing for AI-generated work without disclosure.
 
-**Talking points:**
-- Industry also facing ethical questions
-- McKinsey: $650m opioids settlement
-- PwC: Australian tax leak scandal
-- Deloitte: billing for AI-generated work
-- No mandatory professional regulation—industry self-polices
-- Reputation matters more than ever
+There's no mandatory professional regulation. No licence to lose. The industry self-polices through reputation—and reputation is taking hits.
+
+**Why this matters:**
+If you're going to work in this industry, you need to think about ethics not as compliance but as professional identity. What are you willing to do? What aren't you? Where are the lines?
 
 ---
 
-## Slide 10: Looking Ahead
-**Visual:** Key takeaway: "From 'what to do' → 'how to implement'"
+## Slide 6: Your Reflection
 
-**Talking points:**
-- Execution-centric firms (Accenture, Deloitte) growing twice as fast as strategy-pure
-- AI automating entry-level analytical work
-- Challenge: how to train consultants when juniors don't do the work that trained them?
-- Expertise and implementation increasingly valued
-- Industry may look very different in 5-10 years
+**Visual:** Question prompt
+
+> The written materials cover the industry structure in more detail. As you read, consider: where would you want to position yourself in this landscape—and what does the disruption mean for that choice?
+
+**Bridge:**
+Next recording: the different roles consultants play, and why knowing which one you're in matters more than most people realise.

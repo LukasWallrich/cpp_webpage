@@ -10,15 +10,12 @@ This week introduces the field of management consultancy: what it is, how the in
 - State your own development goals for this module
 :::
 
-### Downloads
+### How to use these materials
 
-<div class="downloads">
-  <a href="w1-visual-reference.pdf" class="download-btn">
-    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-    Visual reference (PDF)
-  </a>
-  <a href="w1-audio.mp3" class="download-btn">
-    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></svg>
-    Audio (MP3, 25 min)
-  </a>
-</div>
+To prepare for the live session, you should:
+
+1. **Watch the recordings** for each section (Parts 1-4, ~60 minutes total), and skim the written content that highlights key points
+2. **Complete the core readings**: Block (2011) Chapters 1-2 and Sturdy (2011)
+3. **Work through the preparation checklist** at the end
+
+The expandable academic source summaries throughout these materials are **optional enrichment**. They provide deeper context if you're interested, but aren't essential for the live session. Try to find some time to extend your learning, but don't worry if you can't get through everything.

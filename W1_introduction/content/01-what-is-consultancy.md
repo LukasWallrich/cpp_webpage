@@ -1,12 +1,18 @@
 ## 1. What is consultancy?
 
-:::audio
-Part 1: Defining consultancy
-~8 minutes
+:::video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GT8ipRLxH7g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="presentations/01-origins-and-definition.pptx" class="download-btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  Download slides (PPTX)
+</a>
+
+Part 1: Defining consultancy (~8 minutes)
 - Block's definition: influence without direct control
-- Why this definition matters for internal consultants too
-- The origins: Taylor and scientific management
-- From McKinsey to the Big 4: how the industry took shape
+- Taylor's origin story: the shovel experiments at Bethlehem Steel (1898)
+- The trap consultancy still falls into: brilliant analysis, poor implementation
+- Why getting people to act on advice matters as much as the advice itself
 :::
 
 :::definition

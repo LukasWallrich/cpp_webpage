@@ -56,6 +56,13 @@ Part 1: Title
 :::
 ```
 
+## Skills
+
+Make sure to call on the following skills or commands when relevant:
+- pptx folder contains skills for creating and editing powerpoint slides
+- /summarise-pdf for generating source block summaries from PDFs
+- /fact-check for verifying factual claims and citations
+
 ## Local Development
 
 The page loads external files via fetch, requiring a local server:

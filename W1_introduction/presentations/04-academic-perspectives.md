@@ -1,153 +1,126 @@
 # Recording 4: Why Study Consultancy Critically?
 
 **Duration:** ~10 minutes
-**Slides:** 9-10
-**Core message:** Critical thinking doesn't mean cynicism—it makes you a better consultant AND a better client.
+**Slides:** 7
+**Core message:** Critical thinking doesn't mean cynicism—it makes you better at the job.
 
 ---
 
-## Slide 1: Title
-**Visual:** Title slide
+## Slide 1: The Dating Platform Problem
 
-**Talking points:**
-- Final recording for Week 1
-- Different from practical skills—this is about how we think about consultancy
-- Academic perspectives: sometimes sceptical, always illuminating
+**Visual:** Simple analogy setup
 
----
+**Story to tell:**
+Here's a question about incentives.
 
-## Slide 2: Why a Critical Perspective?
-**Visual:** Key questions displayed
+A dating platform makes money while you're looking for a partner. If you find one too quickly, you cancel your subscription. So what's the platform actually optimised for?
 
-> Whose interests does this advice serve?
-> What's the evidence base?
-> What are the unintended consequences?
+Now apply that logic to consulting.
 
-**Talking points:**
-- Academics often sceptical of consultancy
-- Some criticism unfair; much worth taking seriously
-- Critical ≠ cynical
-- These questions make you better at the job
-- Whether you're a consultant or a client of consultants
+A consultant's revenue depends on ongoing engagements. If you solve the problem too quickly, the project ends. If you build the client's capability too well, they won't need you next time.
+
+This isn't about bad people. It's about structural incentives. And understanding them is part of being a thoughtful professional—whether you're a consultant or hiring one.
 
 ---
 
-## Slide 3: Four Lenses on Consultancy
-**Visual:** Four quadrants or boxes
+## Slide 2: The Witch Doctors
 
-| Lens | Focus |
-|------|-------|
-| **Knowledge vehicles** | Creating, promoting, applying management ideas |
-| **Organisations** | How consultancies themselves work (up-or-out, knowledge management) |
-| **Profession** | Identity, codes of conduct, legitimacy struggles |
-| **Practice/process** | What actually happens in engagements; outcomes |
+**Visual:** List of metaphors: Witch-doctors, Magicians, Seducers, Performers, Masters of ceremonies
 
-**Talking points:**
-- Multiple valid ways to study consultancy
-- Each reveals different insights
-- Knowledge: consultancies as publishers, thought leaders
-- Organisations: distinctive HR practices, knowledge management
-- Profession: precarious status, no clear jurisdiction
-- Practice: what drives success, failure, value for money
+**Story to tell:**
+Academic researchers have used some vivid language to describe consultants. Witch doctors. Magicians. Seducers.
+
+These aren't just insults. They're pointing at something real.
+
+Consultants don't succeed purely on technical expertise. They succeed through *performance*—how they present, how they build credibility, how they make clients feel confident in their recommendations.
+
+**Key insight:**
+This isn't necessarily bad. Clients facing uncertainty need confidence as well as analysis. But it does mean *how* you communicate matters as much as *what* you recommend. And the same techniques that build legitimate confidence can also sell weak ideas convincingly.
 
 ---
 
-## Slide 4: The "Witch Doctors" Debate
-**Visual:** Metaphor list or word cloud
+## Slide 3: Double Agency
 
-> Witch-doctors (Clark & Salaman) • Magicians (Schuyt & Schuijt) • Seducers (Sturdy) • Performers (Clark) • Masters of ceremonies (Thomassen)
-
-**Talking points:**
-- Vivid metaphors from academic research
-- Not just insults—highlight something real
-- Consultants exercise influence through symbolic performance, not just technical expertise
-- Specialised language, rituals (workshops, frameworks), mystique
-- Clark & Salaman: providing "symbolic reassurance" rather than proven solutions
-- Important implication: HOW you communicate matters as much as WHAT you say
-
----
-
-## Slide 5: Consultancy and Uncertainty
-**Visual:** Three sources of uncertainty diagram
-
-**Talking points:**
-- Uncertainty central to management—and to consultancy
-- Consultants brought in to handle uncertainty—but may also intensify it
-- **Product uncertainty**: Hard to assess quality of advice, especially when co-produced
-- **Relationship uncertainty**: Outsider status, potential conflicting motives
-- **Institutional uncertainty**: No clear professional jurisdiction; industry resists independent regulation
-- Result: "precarious profession" constantly justifying its existence
-
----
-
-## Slide 6: Principal-Agent Problems
 **Visual:** Chain diagram: Shareholders → Managers → Consultants
 
-**Talking points:**
-- Classic management challenge: principal-agent problem
-- Shareholders (principals) hire managers (agents)—but interests may diverge
-- Now add consultants: agents of managers, not shareholders
-- Double agency problem
-- Hard to incentivise long-term success when relationship is with manager
-- Manager may want validation, not truth; consultant may want repeat business
-- Whose interests does the advice really serve?
+**Story to tell:**
+There's a classic problem in management: the principal-agent problem. Shareholders hire managers, but managers have their own interests—career, comfort, ego.
+
+Now add consultants. Consultants are hired by managers, not shareholders. So we have a *double* agency problem.
+
+The consultant's client is the manager. If the manager wants validation rather than truth, the consultant who provides truth might not get the next engagement. If the manager wants to avoid blame, the consultant becomes the scapegoat.
+
+**The question:**
+Whose interests does the advice actually serve? The organisation's? The manager's? The consultant's? They're not always aligned.
 
 ---
 
-## Slide 7: Information Asymmetries
-**Visual:** Key concepts highlighted
+## Slide 4: The Lemons Problem
 
-**Talking points:**
-- Akerlof's "lemons" problem (1970): when buyers can't assess quality, markets can fail
-- Clients struggle to judge consultant quality before (or even after) engagement
-- Reputation becomes crucial—but what does reputation actually signal?
-- Consultants also have agenda-setting power
-- Can define problems in ways that require their solutions
-- "Identifying problems by presenting solutions"
+**Visual:** Key concept: Information asymmetry
 
----
+**Story to tell:**
+There's a famous economics paper about used cars. When buyers can't assess quality, bad products drive out good ones—because sellers of good products can't prove their quality is worth the price.
 
-## Slide 8: FUD-ding—Creating Fear, Uncertainty, Doubt
-**Visual:** FUD acronym with bullet points
+Consulting has a similar problem. Before you hire a consultant, how do you know they're good? During the engagement, how do you know their advice is sound? Even after, how do you know the outcome was because of them?
 
-**Talking points:**
-- Randall et al.: consultancies may promote uncertainty to make themselves indispensable
-- Tactics:
-  - Challenge norms and worldviews (create disequilibrium)
-  - Reframe familiar ideas
-  - Threaten "damnation" but offer "salvation"
-- Critical question: is this manipulation or necessary challenge?
-- Sometimes clients NEED their assumptions challenged
-- But same tactics can serve consultant interests over client interests
-- Distinguish the framing from the actual actions
+This is why reputation matters so much in consulting—it's one of the few signals available. But reputation can be gamed. And it creates a market where confident performance may matter more than actual effectiveness.
 
 ---
 
-## Slide 9: What Does the Evidence Actually Show?
-**Visual:** Sturdy (2011) key findings
+## Slide 5: Creating Uncertainty
 
-**Talking points:**
-- Sturdy's review: direct evidence of consulting impact is surprisingly thin
-- Methodologically hard to study—what's the counterfactual?
-- What we do know:
-  - Consultancy clearly affects management discourse (how people talk and think)
-  - Impact varies hugely by context, client capability, engagement type
-  - Relationship often matters more than content of advice
-- Not an attack on consulting—a call for clearer thinking
-- Don't oversell; be honest about what you can and can't demonstrate
+**Visual:** FUD—Fear, Uncertainty, Doubt
+
+**Story to tell:**
+Back to the dating platform problem.
+
+If consultants benefit from ongoing uncertainty, some might—consciously or not—create it.
+
+The tactics have been documented: Challenge the client's worldview. Reframe familiar problems as crises. Paint vivid pictures of what happens if they don't act.
+
+Huczynski (1993) called it "the threat of damnation and the promise of salvation."
+
+**The honest question:**
+Sometimes clients genuinely need their assumptions disrupted. The same techniques that create unnecessary anxiety can shake complacent organisations into necessary action.
+
+The difference is whether the disruption serves the client or the consultant. And that's hard for even well-intentioned consultants to judge about themselves.
 
 ---
 
-## Slide 10: So What?
-**Visual:** Summary takeaway
+## Slide 6: What Does the Evidence Show?
 
-> Critical thinking makes you better—at consulting AND at hiring consultants.
+**Visual:** Key finding from Sturdy (2011)
 
-**Talking points:**
-- Apply same rigour to your own practice
-- Apply it to the industry's claims about itself
-- "Best practice" is often rhetorical construction, not neutral description
-- Ask: whose interests? what evidence? what consequences?
-- This module will help you develop both practical skills AND critical judgement
-- Preview: readings for this week—Block and Sturdy
-- Come to the live session ready to discuss what surprised you
+**Story to tell:**
+Andrew Sturdy reviewed the evidence on consulting impact. His conclusion: surprisingly thin.
+
+Not because consulting doesn't work—but because it's genuinely hard to study. What's the counterfactual? How do you separate the consultant's contribution from everything else?
+
+What we do know:
+- Consulting shapes how managers think and talk—the frameworks, the language
+- Impact varies hugely by context and client capability
+- The relationship often matters more than the content of advice
+
+**What this means:**
+Don't oversell. Be honest about what you can and can't demonstrate.
+
+---
+
+## Slide 7: So What?
+
+**Visual:** Three questions
+
+**Story to tell:**
+Critical thinking isn't cynicism. It's asking better questions.
+
+*Whose interests does this advice serve?*—Including your own.
+
+*What's the evidence base?*—For your recommendations, and for the frameworks you're using.
+
+*What are the unintended consequences?*—Of what you're recommending, and of how you're framing it.
+
+These questions make you a better consultant. They also make you a better client—able to distinguish genuine expertise from confident performance.
+
+**Reflection:**
+Come to the live session having read Block and Sturdy. What surprised you? What resonated with your experience?

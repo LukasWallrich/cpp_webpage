@@ -1,99 +1,90 @@
 # Recording 1: Defining Consultancy
 
 **Duration:** ~8 minutes
-**Slides:** 7-8
-**Core message:** Consultancy is influence without direct control—a definition that applies far beyond external consultants.
+**Slides:** 5-6
+**Core message:** Consultancy is influence without control—and it started with a shovel.
 
 ---
 
-## Slide 1: Title
-**Visual:** Title slide with week/topic
+## Slide 1: The Question
 
-**Talking points:**
-- Welcome to Week 1
-- Today: what consultancy actually is, and why the definition matters
+**Visual:** Simple question on screen
+
+> When are you *not* a consultant?
+
+**Story to tell:**
+Think about your work week. Meetings where you're advising on things you won't implement. Emails where you're recommending changes you can't mandate. Presentations where you're trying to shift thinking in a room where you have no formal authority.
+
+How much of your work is actually consultancy—even if no one calls it that?
 
 ---
 
 ## Slide 2: Block's Definition
-**Visual:** Quote prominently displayed with Block's photo
+
+**Visual:** Quote prominently displayed
 
 > "You are consulting every time you are trying to change or improve a situation but have no direct control over the implementation."
-> — Peter Block, *Flawless Consulting* (1999)
+> — Peter Block
 
-**Talking points:**
-- This is our working definition for the module
-- Key phrase: "no direct control"
-- If you can just order it done, you're managing; the moment you need to persuade, you're consulting
+**Key insight:**
+The moment you need to persuade rather than order—you're consulting. This reframes your job. It's not just what you advise, but how you get people to act on that advice. That's what this module is about.
 
 ---
 
-## Slide 3: Why This Definition Matters
-**Visual:** Venn diagram or overlapping circles showing: External consultants, Internal advisors, HR partners, Managers-as-coaches
+## Slide 3: A Man and His Shovel
 
-**Talking points:**
-- Deliberately broad definition
-- Captures anyone who advises without implementing
-- You've probably been a consultant without knowing it
-- The skills transfer across all these contexts
+**Visual:** Historical photo of Bethlehem Steel or industrial workers (1900s)
 
----
+**Story to tell:**
+Spring 1898. Frederick Winslow Taylor arrives at Bethlehem Steel in Pennsylvania. He's 42, a mechanical engineer from a wealthy Philadelphia family—but one who'd worked his way up from machinist's apprentice after failing eyesight forced him to abandon his place at Harvard. He'd spent years at Midvale Steel, rising from shop floor labourer to chief engineer, obsessed with one question: why is so much work done so badly?
 
-## Slide 4: The MCA's Industry Definition
-**Visual:** MCA definition as quote block
+Now he's a "consulting engineer"—his business card reads "Systematizing Shop Management and Manufacturing Costs a Specialty"—and Bethlehem has hired him to solve a capacity crisis. They're making cannons for the Spanish-American War and can't keep up.
 
-> "Management consultancy creates value for organisations and the wider economy through improved performance, achieved by providing objective advice and implementing business solutions."
+Taylor looks at the yard. Some 500 men are shovelling coal and iron ore—same work their fathers did. Each man brings his own shovel. Shovelling dense iron ore, a load might weigh 30 pounds. Shovelling light rice coal, the same shovel holds barely 4 pounds. Nobody has ever asked: what's the right amount?
 
-**Talking points:**
-- Industry bodies define it more narrowly
-- Note the emphasis on "value creation" and "objective advice"
-- Also includes implementation—not just advice
-- We'll use both definitions: Block for the practice, MCA for the industry
+Taylor measures. He experiments. He discovers the sweet spot: 21 pounds. Too light, you waste motion. Too heavy, you exhaust yourself. He designs eight to ten different shovels for different materials. Coal gets a wide scoop. Iron ore gets a smaller one. Workers are issued the right shovel each morning.
+
+Result? About 140 workers now do what 500 did before. Daily output per man jumps from 16 tons to nearly 60. And those who remain earn more, because they're more productive.
+
+**Why this matters:**
+This is one origin story of consultancy. A radical idea: *work itself can be studied and improved*. Not by the people doing it, but by someone standing back and analysing it.
+
+Every consultant since is doing some version of what Taylor did—looking at how work happens and asking: could it be different?
 
 ---
 
-## Slide 5: Origins—Taylor and Scientific Management
-**Visual:** Photo of Frederick Taylor + factory/industrial imagery
+## Slide 4: The Catch
 
-**Talking points:**
-- 1880s-1910s: Frederick Taylor's "scientific management"
-- Radical idea: work processes can be systematically studied and optimised
-- First time outsiders analysed how work should be done
-- Famous example: Bethlehem Steel—optimal shovel weight (~21 pounds)
-- Start of management as a profession separate from apprenticeship
+**Visual:** Split image—beautiful report on one side, dusty shelf on the other
 
----
+**Story to tell:**
+Taylor's shovels worked—or did they? The analysis was elegant, and his 1911 book *The Principles of Scientific Management* made him famous. But here's what Taylor didn't solve: the workers weren't consulted. They resisted. Some were fired. Unions formed in response to his methods. And in 1901, just three years after arriving, Taylor was forced out of Bethlehem Steel after clashing with other managers.
 
-## Slide 6: The Industry Takes Shape
-**Visual:** Timeline: 1886 Arthur D Little → 1926 McKinsey → 1933 Securities Act → 1980s Big 4
+There's a scholarly footnote here too: historians have questioned whether Taylor's dramatic numbers were entirely accurate. He may have embellished some results in later retellings. The truth was messier than the legend—which is itself a lesson about consultancy.
 
-**Talking points:**
-- 1886: Arthur D Little—first management consultancy (MIT professor)
-- 1926: McKinsey founded; Marvin Bower positioned consultants as professionals (like doctors, lawyers)
-- 1933: US Securities Act required independent financial research—created regulatory demand
-- 1980s: Big 4 accountancies built consulting arms
-- Key shift: from industry experts to MBA generalists, then back toward expertise
+This is the trap consultancy still falls into: brilliant analysis, poor implementation. Ask anyone who's worked with consultants—or been one—and they'll tell you about beautifully argued recommendations that went nowhere because no one worked out how to make them stick.
+
+**Key insight:**
+Good consultancy is two halves: figuring out the answer AND helping people act on it. We'll work on both in this module.
 
 ---
 
-## Slide 7: Problem-Solving and Implementation
-**Visual:** McKinsey 7-step process diagram OR consultancy cycle diagram
+## Slide 5: Your Reflection
 
-**Talking points:**
-- Consultancy involves two halves: diagnosis/recommendation AND implementation support
-- McKinsey's 7-step process focuses on the analytical side
-- But many engagements fail not because of poor analysis—because of poor implementation
-- Einstein (attributed): "55 minutes defining the problem, 5 minutes solving it"
-- We'll cover both halves in this module
-
----
-
-## Slide 8: Reflection
 **Visual:** Question prompt
 
-> Think about a time you tried to influence a decision or change at work without having direct authority. What made it challenging? What helped?
+> Think about a time you tried to change something at work without having direct authority. What made it hard? What helped?
 
-**Talking points:**
-- Personal connection—they've all experienced this
-- Preview: the module will help develop these skills systematically
-- Next recording: the industry landscape
+**Bridge:**
+Bring that experience to the live session. Everyone's been a consultant without realising it. The question is whether you were any good at it—and how you could be better.
+
+Next recording: the industry that turned Taylor's insight into a $300 billion business.
+
+---
+
+## Sources for Taylor narrative
+
+- Taylor, F.W. (1911) *The Principles of Scientific Management*. New York: Harper & Brothers. [Full text available via Project Gutenberg](https://www.gutenberg.org/ebooks/6435)
+- Nelson, D. (1992) "Taylorism and the Workers at Bethlehem Steel, 1898-1901", *Pennsylvania Magazine of History and Biography*, 116(4), pp. 419-445. [Available via JSTOR](https://journals.psu.edu/pmhb/article/view/43387)
+- Britannica (2024) "Frederick W. Taylor", *Encyclopedia Britannica*. https://www.britannica.com/biography/Frederick-W-Taylor
+- Kanigel, R. (1997) *The One Best Way: Frederick Winslow Taylor and the Enigma of Efficiency*. New York: Viking. [Comprehensive biography examining both Taylor's achievements and controversies]

@@ -1,23 +1,48 @@
 ## 2. The industry landscape
 
-:::audio
-Part 2: The consulting industry today
-~10 minutes
-- Industry size and segments (strategy, operations, IT, HR)
-- The major players: Big 3, Big 4, tech consultancies
-- Geographic concentration: why 70% of fees come from 5 countries
-- Recent disruption: AI, the 2025 McKinsey layoffs, and what's changing
+:::video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v01CbPf0ucY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="presentations/02-industry-landscape-trends.pptx" class="download-btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  Download slides (PPTX)
+</a>
+
+Part 2: The consulting industry today (~10 minutes)
+- Industry structure: 85% freelancers, yet big firms dominate headlines
+- Geographic concentration: 70% of fees from just five countries
+- The 2025 McKinsey layoffs: AI collapsing the traditional pyramid model
+- Value shifting from "what to do" to "how to do it"
+- Ethics and scrutiny: scandals and the limits of self-regulation
 :::
 
 ### Industry structure
 
 The global consulting market is estimated at ~$300 billion (2024). It's useful to think of three tiers:
 
-**Strategy consultancies** (McKinsey, BCG, Bain): Premium pricing, focused on C-suite strategy questions. Revenues of $10-15bn each, but slower recent growth (~5-6% CAGR).
+<div style="display: flex; flex-direction: column; gap: 0.5rem; margin: 1.5rem 0;">
 
-**Big 4 accountancies** (Deloitte, PwC, EY, KPMG): Larger overall revenues, broader service mix from audit to implementation. Growing faster (~11-12% CAGR) by combining advisory with technology execution.
+<div style="background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%); color: white; padding: 1.25rem; border-radius: 8px;">
+<div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.8;">Strategy</div>
+<div style="font-size: 1.1rem; font-weight: 600; margin: 0.5rem 0;">McKinsey, BCG, Bain</div>
+<div style="font-size: 0.9rem; opacity: 0.9;">Premium pricing, C-suite strategy questions. $10-15bn revenues each.</div>
+<div style="margin-top: 0.75rem; font-size: 0.8rem; background: rgba(255,255,255,0.15); padding: 0.25rem 0.5rem; border-radius: 4px; display: inline-block;">~5-6% CAGR</div>
+</div>
 
-**Tech/implementation firms** (Accenture, IBM, CGI): Focused on technology transformation and large-scale delivery.
+<div style="background: linear-gradient(135deg, #744210 0%, #975a16 100%); color: white; padding: 1.25rem; border-radius: 8px;">
+<div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.8;">Big 4</div>
+<div style="font-size: 1.1rem; font-weight: 600; margin: 0.5rem 0;">Deloitte, PwC, EY, KPMG</div>
+<div style="font-size: 0.9rem; opacity: 0.9;">Broader service mix from audit to implementation.</div>
+<div style="margin-top: 0.75rem; font-size: 0.8rem; background: rgba(255,255,255,0.15); padding: 0.25rem 0.5rem; border-radius: 4px; display: inline-block;">~11-12% CAGR</div>
+</div>
+
+<div style="background: linear-gradient(135deg, #22543d 0%, #276749 100%); color: white; padding: 1.25rem; border-radius: 8px;">
+<div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.8;">Tech / Implementation</div>
+<div style="font-size: 1.1rem; font-weight: 600; margin: 0.5rem 0;">Accenture, IBM, CGI</div>
+<div style="font-size: 0.9rem; opacity: 0.9;">Technology transformation and large-scale delivery.</div>
+</div>
+
+</div>
 
 *Plus:* thousands of boutique and specialist firms, freelance consultants, and internal consultancy functions.
 
