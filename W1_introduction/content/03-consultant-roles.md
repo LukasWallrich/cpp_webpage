@@ -62,12 +62,33 @@ Based on interviews with 30 HR and OD managers from 24 Australian organisations,
 
 **Four boundary dimensions** shape internal consultants' identity work:
 
-| Boundary | Preferred identity | Spoiled identity |
-|----------|-------------------|------------------|
-| Structural | Change agent, boundary-spanner, trusted adviser | Administrator, "fix-it person", "HR go to" |
-| Knowledge | Esoteric expert, professional | Impractical, service provider |
-| Political | Player, jester/organisational conscience | Outsider, functionary |
-| Interpersonal | Colleague, confidant | Loner, outcast |
+<div class="boundary-table">
+  <div class="boundary-row header">
+    <div class="boundary-cell">Boundary</div>
+    <div class="boundary-cell">Preferred identity</div>
+    <div class="boundary-cell">Spoiled identity</div>
+  </div>
+  <div class="boundary-row">
+    <div class="boundary-cell label">Structural</div>
+    <div class="boundary-cell preferred">Change agent, boundary-spanner, trusted adviser</div>
+    <div class="boundary-cell spoiled">Administrator, "fix-it person", "HR go to"</div>
+  </div>
+  <div class="boundary-row">
+    <div class="boundary-cell label">Knowledge</div>
+    <div class="boundary-cell preferred">Esoteric expert, professional</div>
+    <div class="boundary-cell spoiled">Impractical, service provider</div>
+  </div>
+  <div class="boundary-row">
+    <div class="boundary-cell label">Political</div>
+    <div class="boundary-cell preferred">Player, jester/organisational conscience</div>
+    <div class="boundary-cell spoiled">Outsider, functionary</div>
+  </div>
+  <div class="boundary-row">
+    <div class="boundary-cell label">Interpersonal</div>
+    <div class="boundary-cell preferred">Colleague, confidant</div>
+    <div class="boundary-cell spoiled">Loner, outcast</div>
+  </div>
+</div>
 
 **Key arguments**:
 - Internal consultants seek to balance *distinctiveness* (structural and knowledge boundaries) with *inclusion* (political and interpersonal boundaries)
