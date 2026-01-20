@@ -61,6 +61,19 @@ header h1 {
   margin-bottom: 1rem;
 }
 
+.return-link {
+  font-size: 0.6em;
+  color: rgba(255,255,255,0.4);
+  text-decoration: none;
+  margin-left: 0.3em;
+  vertical-align: middle;
+  transition: color 0.2s;
+}
+
+.return-link:hover {
+  color: rgba(255,255,255,0.8);
+}
+
 .week-meta {
   font-family: var(--font-sans);
   font-size: 0.9rem;
