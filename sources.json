@@ -78,11 +78,27 @@
     "publication": "Fast Company",
     "url": null,
     "doi": null,
-    "OA_link": "https://www.removepaywall.com/search?url=https://www.fastcompany.com/91463039/why-the-mckinsey-layoffs-are-a-warning-signal-for-consulting-in-the-ai-age-ai-layoffs-management-consulting",
+    "OA_link": "https://www.fastcompany.com/91463039/why-the-mckinsey-layoffs-are-a-warning-signal-for-consulting-in-the-ai-age-ai-layoffs-management-consulting",
     "BBK_link": null,
     "oa_check_failed": "N/A",
     "oa_last_checked": null,
     "notes": "Written by former McKinsey Director on industry disruption"
+  },
+  "sternfels2026": {
+    "formatted_reference": "Sternfels, B. (2026, January). Where McKinsey and consulting go from here [Audio podcast interview]. In A. Ignatius (Host), *HBR IdeaCast*. Harvard Business Review.",
+    "type": "podcast",
+    "authors": ["Sternfels, B."],
+    "year": 2026,
+    "title": "Where McKinsey and consulting go from here",
+    "publication": "HBR IdeaCast",
+    "host": "Ignatius, A.",
+    "url": "https://hbr.org/podcast/2026/01/where-mckinsey-and-consulting-go-from-here",
+    "doi": null,
+    "OA_link": "https://hbr.org/podcast/2026/01/where-mckinsey-and-consulting-go-from-here",
+    "BBK_link": null,
+    "oa_check_failed": "N/A",
+    "oa_last_checked": null,
+    "notes": "Interview with McKinsey Global Managing Partner on AI transformation and firm's 100th anniversary"
   },
   "christensen2013": {
     "formatted_reference": "Christensen, C. M., Wang, D., & van Bever, D. (2013). Consulting on the cusp of disruption. *Harvard Business Review*, *91*(10), 106–114.",

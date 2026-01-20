@@ -84,6 +84,19 @@ A former McKinsey director argues that the firm's layoffs signal an irreversible
 **Key insight**: In the AI age, even the most storied consulting institutions must continuously reinvent themselves—moving from authority rooted in expertise to leadership grounded in learning and adaptability—or risk being outpaced by those that do.
 :::
 
+<!-- Summarised from podcast transcript -->
+:::source[sternfels2026]
+In this podcast interview marking McKinsey's 100th anniversary, Global Managing Partner Bob Sternfels provides an insider's view of how the firm is responding to AI disruption. He describes McKinsey's workforce as now comprising 40,000 humans and 20,000 AI agents—up from just 3,000 agents eighteen months earlier—with expectations of one agent per employee within 18 months. The interview reveals a fundamental business model shift underway, from fee-for-service advisory work towards outcome-based models where the firm underwrites client results.
+
+**Key findings**:
+- McKinsey is fundamentally rethinking its talent profile: moving away from "perfect marks" towards resilience (ability to recover from setbacks), human-to-human skills (team sports, retail experience), and aptitude to learn new things rather than mastery of existing subjects
+- As AI commoditises linear problem-solving, the firm is seeking capabilities AI lacks: aspiration-setting ("what should we aim for?"), judgment, and discontinuous/creative thinking—leading to renewed interest in liberal arts graduates
+- Approximately one-third of revenues are now tied to outcome-based models where McKinsey underwrites results jointly with clients, a figure Sternfels aims to grow to a majority
+- Following scandals including the opioid settlement and South Africa bribery charges, the firm invested approximately $1 billion in compliance infrastructure and adopted publicly-traded-company standards for risk management
+
+**Key insight**: Whilst the Fast Company article frames McKinsey's changes as reactive decline management, this interview presents the firm's own narrative of proactive reinvention—the truth likely lies between these perspectives, but the podcast confirms that significant internal transformation is genuinely underway.
+:::
+
 <!-- Summarised from PDF: 2026-01-10 -->
 :::source[christensen2013]
 Christensen and colleagues apply disruption theory to the consulting industry, arguing that the same forces that transformed steel and publishing are now reshaping professional services. The article examines how consulting's traditional defences—opacity and agility—are eroding as clients become more sophisticated and new competitors emerge with alternative business models.
