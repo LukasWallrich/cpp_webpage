@@ -76,7 +76,7 @@ Your assessment will change as the problem definition evolves. That's fine; the 
 
 ### Practical issues to address early
 
-Randall et al. [-@randall2018] suggest checking during initial meetings:
+Randall et al. [-@randall2019] suggest checking during initial meetings:
 
 - **Job titles and sensitivities**: get an org chart if you can—who reports to whom? Who has real authority versus formal authority? Where are the political tensions?
 - **Potential budget parameters**: not to anchor on a number, but to understand the scale—are they imagining a £50,000 project or a £500,000 one? That shapes everything

@@ -101,6 +101,10 @@ function processInTextCitations(markdown) {
 // Add citation popups after HTML is rendered
 function addCitationPopups(container) {
   container.querySelectorAll('.citation').forEach(cite => {
+    // Skip citations inside <summary> elements (popups get clipped by overflow:hidden)
+    if (cite.closest('summary')) {
+      return;
+    }
     const key = cite.dataset.sourceKey;
     if (sourcesDB && sourcesDB[key]) {
       const source = sourcesDB[key];
@@ -154,7 +158,65 @@ function addCitationPopups(container) {
 
 // Convert ::: blocks into styled components
 function processCustomBlocks(markdown) {
-  // Audio cards
+  // IMPORTANT: Process blocks in order from innermost to outermost.
+  // Blocks that cannot contain other blocks are processed first, so that
+  // by the time we process container blocks (like summary), any nested
+  // blocks have already been converted to HTML and won't confuse the regex.
+
+  // Key definitions (cannot contain other blocks)
+  markdown = markdown.replace(
+    /:::definition\s*\n([\s\S]*?)\n:::/g,
+    (match, content) => {
+      const lines = content.trim().split('\n');
+      const quote = lines[0] || '';
+      const attribution = lines[1] || '';
+      return `
+<div class="concept-box">
+  <div class="label">Key definition</div>
+  <blockquote>${marked.parseInline(quote)}</blockquote>
+  ${attribution ? `<div class="attribution">— ${marked.parseInline(attribution)}</div>` : ''}
+</div>`;
+    }
+  );
+
+  // Reflection prompts (cannot contain other blocks)
+  markdown = markdown.replace(
+    /:::reflect\s*\n([\s\S]*?)\n:::/g,
+    (match, content) => `
+<div class="reflection-box">
+  <h3><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> Pause and reflect</h3>
+  ${marked.parse(content)}
+</div>`
+  );
+
+  // Learning outcomes (cannot contain other blocks)
+  markdown = markdown.replace(
+    /:::outcomes\s*\n([\s\S]*?)\n:::/g,
+    (match, content) => `
+<div class="outcomes-box">
+  <h3>By the end of this week, you should be able to:</h3>
+  ${marked.parse(content)}
+</div>`
+  );
+
+  // Checklist (cannot contain other blocks)
+  const pageKey = window.location.pathname.replace(/[^a-zA-Z0-9]/g, '-');
+  markdown = markdown.replace(
+    /:::checklist\s*\n([\s\S]*?)\n:::/g,
+    (match, content) => {
+      const items = content.trim().split('\n').filter(l => l.startsWith('- '));
+      const checkboxes = items.map((item, i) =>
+        `<li><input type="checkbox" id="check-${pageKey}-${i}"><label for="check-${pageKey}-${i}">${marked.parseInline(item.slice(2))}</label></li>`
+      ).join('');
+      return `
+<div class="checklist">
+  <h3>✓ Preparation checklist</h3>
+  <ul>${checkboxes}</ul>
+</div>`;
+    }
+  );
+
+  // Audio cards (cannot contain other blocks)
   markdown = markdown.replace(
     /:::audio\s*\n([\s\S]*?)\n:::/g,
     (match, content) => {
@@ -221,32 +283,6 @@ function processCustomBlocks(markdown) {
     }
   );
 
-  // Key definitions
-  markdown = markdown.replace(
-    /:::definition\s*\n([\s\S]*?)\n:::/g,
-    (match, content) => {
-      const lines = content.trim().split('\n');
-      const quote = lines[0] || '';
-      const attribution = lines[1] || '';
-      return `
-<div class="concept-box">
-  <div class="label">Key definition</div>
-  <blockquote>${marked.parseInline(quote)}</blockquote>
-  ${attribution ? `<div class="attribution">— ${marked.parseInline(attribution)}</div>` : ''}
-</div>`;
-    }
-  );
-
-  // Reflection prompts
-  markdown = markdown.replace(
-    /:::reflect\s*\n([\s\S]*?)\n:::/g,
-    (match, content) => `
-<div class="reflection-box">
-  <h3><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg> Pause and reflect</h3>
-  ${marked.parse(content)}
-</div>`
-  );
-
   // Academic source summaries - enhanced with JSON support
   markdown = markdown.replace(
     /:::source(?:\[([^\]]+)\])?\s*\n([\s\S]*?)\n:::/g,
@@ -301,16 +337,6 @@ ${links}<div class="source-content-main">${parsedContent}</div>
 </details>`;
       }
     }
-  );
-
-  // Learning outcomes
-  markdown = markdown.replace(
-    /:::outcomes\s*\n([\s\S]*?)\n:::/g,
-    (match, content) => `
-<div class="outcomes-box">
-  <h3>By the end of this week, you should be able to:</h3>
-  ${marked.parse(content)}
-</div>`
   );
 
   // Reading cards - supports both legacy format and JSON lookup
@@ -385,20 +411,30 @@ ${links}<div class="source-content-main">${parsedContent}</div>
 </div>`
   );
 
-  // Checklist - generate unique IDs based on page path for LocalStorage persistence
-  const pageKey = window.location.pathname.replace(/[^a-zA-Z0-9]/g, '-');
+  // Summary cards (lecture recap with "Read more" expansion)
+  // IMPORTANT: Process last since summary blocks can contain other blocks.
+  // Pattern: :::summary\n<summary text>\n:::\n<expanded details until next heading or block>
   markdown = markdown.replace(
-    /:::checklist\s*\n([\s\S]*?)\n:::/g,
-    (match, content) => {
-      const items = content.trim().split('\n').filter(l => l.startsWith('- '));
-      const checkboxes = items.map((item, i) =>
-        `<li><input type="checkbox" id="check-${pageKey}-${i}"><label for="check-${pageKey}-${i}">${marked.parseInline(item.slice(2))}</label></li>`
-      ).join('');
-      return `
-<div class="checklist">
-  <h3>✓ Preparation checklist</h3>
-  <ul>${checkboxes}</ul>
+    /:::summary\s*[\r\n]+([\s\S]*?)[\r\n]+:::[ \t]*[\r\n]+([\s\S]*?)(?=[\r\n]+###|[\r\n]+:::|$)/g,
+    (match, summary, details) => {
+      const trimmedDetails = details.trim();
+      if (!trimmedDetails) {
+        // No details, just show the summary as a standalone card
+        return `
+<div class="summary-card summary-only">
+  <div class="summary-label">Lecture recap</div>
+  <div class="summary-text">${marked.parse(summary.trim())}</div>
 </div>`;
+      }
+      return `
+<details class="summary-card">
+  <summary class="summary-header">
+    <div class="summary-label">Lecture recap</div>
+    <span class="summary-text">${marked.parse(summary.trim())}</span>
+    <span class="summary-expand">Read more</span>
+  </summary>
+  <div class="summary-details">${marked.parse(trimmedDetails)}</div>
+</details>`;
     }
   );
 
