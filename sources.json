@@ -810,5 +810,37 @@
     "oa_check_failed": false,
     "oa_last_checked": "2026-01-27",
     "notes": "GATOS workflow for AI-assisted thematic analysis using open-source tools - CC-BY license, Nature portfolio journal"
+  },
+  "liusun2025": {
+    "formatted_reference": "Liu, A., & Sun, M. (2025). From Voices to Validity: Leveraging Large Language Models (LLMs) for Textual Analysis of Policy Stakeholder Interviews. *AERA Open*, *11*.",
+    "type": "article",
+    "authors": ["Liu, A.", "Sun, M."],
+    "year": 2025,
+    "title": "From Voices to Validity: Leveraging Large Language Models (LLMs) for Textual Analysis of Policy Stakeholder Interviews",
+    "journal": "AERA Open",
+    "volume": "11",
+    "doi": "10.1177/23328584251374595",
+    "OA_link": "https://journals.sagepub.com/doi/pdf/10.1177/23328584251374595",
+    "BBK_link": null,
+    "oa_check_failed": false,
+    "oa_last_checked": "2026-01-28",
+    "notes": "LLM-assisted coding of stakeholder interviews - 77-96% agreement with human coders; CC-BY-NC gold OA"
+  },
+  "kaiyrbekov2025": {
+    "formatted_reference": "Kaiyrbekov, K., Dobbins, N. J., & Mooney, S. D. (2025). Automated survey collection with LLM-based conversational agents. *JAMIA Open*, *8*(5), ooaf103.",
+    "type": "article",
+    "authors": ["Kaiyrbekov, K.", "Dobbins, N. J.", "Mooney, S. D."],
+    "year": 2025,
+    "title": "Automated survey collection with LLM-based conversational agents",
+    "journal": "JAMIA Open",
+    "volume": "8",
+    "issue": "5",
+    "pages": "ooaf103",
+    "doi": "10.1093/jamiaopen/ooaf103",
+    "OA_link": "https://academic.oup.com/jamiaopen/article-pdf/8/5/ooaf103/65043536/ooaf103.pdf",
+    "BBK_link": null,
+    "oa_check_failed": false,
+    "oa_last_checked": "2026-01-28",
+    "notes": "AI-powered phone surveys with 98% accuracy; public domain license"
   }
 }
