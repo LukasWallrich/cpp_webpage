@@ -3,6 +3,11 @@
 :::video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-vq5ABQpBLQ?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="presentations/02-designing-for-adoption.pptx" class="download-btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  Download slides (PPTX)
+</a>
+
 Part 2: Designing for adoption
 - Microsoft-Nokia: a $7 billion lesson in cultural mismatch
 - Armenakis' five beliefs as a design checklist
@@ -68,12 +73,3 @@ How you present recommendations affects whether they're adopted. The **options p
 
 You still make a recommendation—you're not abdicating judgement. But you're inviting the client into a decision rather than asking them to accept or reject your verdict. This builds ownership: the client isn't defending your idea—they're choosing among alternatives they helped evaluate.
 
----
-
-:::source
-Sturdy, Clark, Fincham & Handley (2009) "Between Innovation and Legitimation—Boundaries and Knowledge Flow in Management Consultancy", *Organization*
-
-This study challenges simple views of consultants as either innovators (bringing in new knowledge) or legitimators (validating internal ideas). Through examining consulting projects, the authors find that knowledge flows in both directions and boundaries between consultant and client knowledge are more fluid than typically assumed.
-
-**Key insight**: The distinction between "new" ideas from consultants and "existing" ideas from clients is often artificial—effective consulting involves complex knowledge co-production.
-:::

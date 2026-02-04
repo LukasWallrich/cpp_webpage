@@ -3,6 +3,11 @@
 :::video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5HAGoTuuv6A?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="presentations/03-evidence-challenge.pptx" class="download-btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  Download slides (PPTX)
+</a>
+
 Part 3: The evidence challenge
 - The case for evidence: reducing the odds of being wrong
 - The Six As and Four Sources frameworks

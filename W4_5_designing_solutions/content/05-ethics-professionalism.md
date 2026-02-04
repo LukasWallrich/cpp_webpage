@@ -3,6 +3,11 @@
 :::video
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FG_Ad-7Y2O8?rel=0&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="presentations/04-ethics-without-easy-answers.pptx" class="download-btn">
+  <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+  Download slides (PPTX)
+</a>
+
 Part 4: Ethics without easy answers
 - The missing regulator: why consulting lacks external oversight
 - Case studies in ethical failure: Enron, the opioid crisis, South Africa state capture, Big Four exam cheating
