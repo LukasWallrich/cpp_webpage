@@ -75,10 +75,59 @@
   font-size: 0.9rem;
 }
 
+/* McKinsey Influence Model 2x2 Grid */
+.influence-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.influence-box {
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.influence-box.role-model {
+  background: #e8f4e8;
+  border: 1px solid #b8d4b8;
+}
+
+.influence-box.conviction {
+  background: #e8e8f4;
+  border: 1px solid #b8b8d4;
+}
+
+.influence-box.skills {
+  background: #f4f0e8;
+  border: 1px solid #d4d0b8;
+}
+
+.influence-box.mechanisms {
+  background: #f4e8e8;
+  border: 1px solid #d4b8b8;
+}
+
+.influence-box h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1rem;
+}
+
+.influence-box.role-model h4 { color: #276749; }
+.influence-box.conviction h4 { color: #434190; }
+.influence-box.skills h4 { color: #744210; }
+.influence-box.mechanisms h4 { color: #9b2c2c; }
+
+.influence-box p {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.95rem;
+}
+
 /* Responsive: stack on mobile */
 @media (max-width: 600px) {
   .evidence-grid,
-  .rhetoric-grid {
+  .rhetoric-grid,
+  .influence-grid {
     grid-template-columns: 1fr;
   }
 }

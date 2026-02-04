@@ -73,12 +73,32 @@ Effective frameworks can be co-created with and tailored to the client context.
 
 This framework identifies four building blocks for enabling organisational change:
 
-| Building Block | Key Question |
-|---|---|
-| **Role modelling** | Do leaders behave consistently with the change? |
-| **Fostering understanding and conviction** | Do people understand why change is needed? |
-| **Developing talent and skills** | Do people have the capabilities required? |
-| **Reinforcing with formal mechanisms** | Do systems, processes and incentives support the change? |
+<div class="influence-grid">
+<div class="influence-box role-model">
+
+#### Role modelling
+Do leaders behave consistently with the change?
+
+</div>
+<div class="influence-box conviction">
+
+#### Understanding & conviction
+Do people understand why change is needed?
+
+</div>
+<div class="influence-box skills">
+
+#### Talent & skills
+Do people have the capabilities required?
+
+</div>
+<div class="influence-box mechanisms">
+
+#### Formal mechanisms
+Do systems, processes and incentives support the change?
+
+</div>
+</div>
 
 The model emphasises that sustainable change requires attention to all four areas—addressing only one or two typically fails.
 
