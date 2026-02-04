@@ -67,7 +67,6 @@ Effective frameworks can be co-created with and tailored to the client context.
 
 **Task-specific frameworks** guide particular activities:
 - McKinsey's Influence Model (enabling change)
-- Pyramid Principle (structuring communication)
 
 ### McKinsey's Influence Model
 
@@ -101,16 +100,6 @@ Do systems, processes and incentives support the change?
 </div>
 
 The model emphasises that sustainable change requires attention to all four areas—addressing only one or two typically fails.
-
-### The Pyramid Principle
-
-Developed at McKinsey by Barbara Minto, this framework structures communication for maximum clarity:
-
-- **Lead with the answer**: State your conclusion or recommendation first
-- **Group and summarise**: Organise supporting arguments into logical clusters
-- **Logically order**: Present ideas in a sequence that builds understanding
-
-This "top-down" approach contrasts with academic writing (which typically builds to conclusions) but works better in business contexts where readers want the key message immediately.
 
 :::reflect
 Think about a framework you've used or encountered. When was it helpful? When might it have constrained your thinking or missed important aspects of the situation?

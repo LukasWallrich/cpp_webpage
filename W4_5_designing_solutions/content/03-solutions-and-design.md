@@ -55,18 +55,6 @@ If your solution fails on any of these beliefs, consider redesigning it before p
 Think about a recommendation you've made or received that wasn't implemented. What factors contributed to the gap between recommendation and action?
 :::
 
-### What makes advice stick
-
-Mole [-@mole2016] found several patterns in how advice is received:
-
-- Individuals act on advice more readily when the advice is **costly to obtain** than when it's free
-- Advice is more highly valued if providers **emphasise the future** rather than focusing on the past
-- Whether people act on advice depends on the **rapport, experience and challenge** provided by the adviser
-
-:::reflect
-How might you build in the elements that make advice more likely to be acted upon? What does this mean for how you position and deliver recommendations?
-:::
-
 ---
 
 ### Extension: The options paper approach
