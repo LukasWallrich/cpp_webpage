@@ -1,0 +1,84 @@
+/* Week 4-5 Custom Styles */
+
+/* Four Sources Evidence Grid */
+.evidence-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.evidence-box {
+  background: var(--card-bg, #f8f9fa);
+  border: 1px solid var(--border-color, #dee2e6);
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.evidence-box h4 {
+  margin: 0 0 0.5rem 0;
+  color: var(--accent-color, #2c5282);
+  font-size: 1rem;
+}
+
+.evidence-box p {
+  margin: 0.5rem 0;
+}
+
+.evidence-box em {
+  color: var(--text-muted, #6c757d);
+  font-size: 0.9rem;
+}
+
+/* Rhetoric Game Two-Box Grid */
+.rhetoric-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.rhetoric-box {
+  border-radius: 8px;
+  padding: 1.25rem;
+}
+
+.rhetoric-box.expert {
+  background: #e8f4f8;
+  border: 1px solid #b8d4e3;
+}
+
+.rhetoric-box.creative {
+  background: #f8f0e8;
+  border: 1px solid #e3d4b8;
+}
+
+.rhetoric-box h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1rem;
+}
+
+.rhetoric-box.expert h4 {
+  color: #2c5282;
+}
+
+.rhetoric-box.creative h4 {
+  color: #744210;
+}
+
+.rhetoric-box p {
+  margin: 0.5rem 0;
+}
+
+.rhetoric-box em {
+  color: var(--text-muted, #6c757d);
+  font-size: 0.9rem;
+}
+
+/* Responsive: stack on mobile */
+@media (max-width: 600px) {
+  .evidence-grid,
+  .rhetoric-grid {
+    grid-template-columns: 1fr;
+  }
+}
