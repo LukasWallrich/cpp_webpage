@@ -911,22 +911,19 @@
     "oa_last_checked": "2026-02-02",
     "notes": "Interview study on how ethics focuses on individual rather than organisational level in consulting; W4 optional reading"
   },
-  "briner2009": {
-    "formatted_reference": "Briner, R. (2009). The basics of evidence-based practice. *People & Strategy*, *32*(1), 60.",
+  "briner2019": {
+    "formatted_reference": "Briner, R. (2019). The basics of evidence-based practice. *HR People + Strategy*.",
     "type": "article",
     "authors": ["Briner, R."],
-    "year": 2009,
+    "year": 2019,
     "title": "The basics of evidence-based practice",
-    "journal": "People & Strategy",
-    "volume": "32",
-    "issue": "1",
-    "pages": "60",
+    "journal": "HR People + Strategy",
     "doi": null,
     "OA_link": "https://cullenscholefield.com/wp-content/uploads/2020/07/Briner%202019%20The-Basics-of-Evidence-Based-Practice.pdf",
     "BBK_link": null,
     "oa_check_failed": false,
-    "oa_last_checked": "2026-02-02",
-    "notes": "Practitioner guide explaining EBP and 6 As framework; W4 optional reading"
+    "oa_last_checked": "2026-02-04",
+    "notes": "Practitioner guide explaining EBP, Six As framework, and Four Sources; W4 core reading"
   },
   "morrelllearmonth2015": {
     "formatted_reference": "Morrell, K., & Learmonth, M. (2015). Against evidence-based management, for management learning. *Academy of Management Learning & Education*, *14*(4), 520–533.",

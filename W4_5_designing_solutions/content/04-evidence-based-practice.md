@@ -15,12 +15,20 @@ Part 3: The evidence challenge
 
 This video introduces evidence-based practice for consultants. It covers the Six As framework (Ask, Acquire, Appraise, Aggregate, Apply, Assess) and the Four Sources of evidence (stakeholder views, practitioner expertise, organisational data, scientific literature). The video also examines cases where evidence was ignored and critiques of the EBM paradigm.
 
-:::source
-Briner [-@briner2009] "The Basics of Evidence-Based Practice", *People & Strategy*
+:::source[briner2019]
+This practitioner guide explains what evidence-based practice (EBP) is and how to get started. Briner argues that EBP is not complicated or revolutionary—it simply extends the everyday principle that using evidence increases our chances of getting desired outcomes.
 
-This practitioner guide explains what evidence-based practice is and how to get started. Briner emphasises that EBP isn't about perfection—using some evidence is better than using none, and using more evidence is likely to be better still.
+**The Six As framework**:
+1. **Ask**: Translate problems into answerable questions
+2. **Acquire**: Gather evidence from multiple sources
+3. **Appraise**: Judge the trustworthiness and relevance of evidence
+4. **Aggregate**: Pull together the best available evidence (not all evidence)
+5. **Apply**: Use evidence to inform decisions
+6. **Assess**: Evaluate the outcomes of decisions taken
 
-**Key insight**: EBP is about making "conscientious, explicit, and judicious use of the best available evidence." Conscientious means we try hard and make a real effort.
+**Four sources of evidence**: Scientific literature, organisational data, stakeholders' concerns, and professional expertise. Each source answers different questions; relying on only one or two gives an incomplete picture.
+
+**Key insight**: EBP is not about perfection or proving anything for certain—using some evidence is better than using none, and using more evidence is likely to be better still.
 :::
 
 ### Assessing evidence quality
@@ -69,9 +77,7 @@ McFillen et al. [-@mcfillen2013] identify six components needed for truly eviden
 
 The authors note that management rarely achieves the levels of certainty that medicine has developed—but that shouldn't prevent us from using the best evidence available.
 
-:::source
-Morrell & Learmonth (2015) "Against Evidence-Based Management, for Management Learning", *Academy of Management Learning & Education*
-
+:::source[morrelllearmonth2015]
 This paper challenges the EBM paradigm, arguing it risks importing inappropriate medical models into management. The authors advocate for intellectual pluralism, flexibility, multiple perspectives, openness, dialogue, and questioning of basic assumptions.
 
 **Key insight**: The "medicine as management motif" may be fundamentally flawed because management contexts are more varied, contested and political than medical ones.

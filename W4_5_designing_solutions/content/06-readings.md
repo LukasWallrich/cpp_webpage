@@ -64,8 +64,8 @@ Interview study examining ethical challenges and practices in UK consultancy fir
 
 Choose one if you want to explore the evidence debate more deeply:
 
-:::reading[optional][briner2009]
-A practitioner guide that explains what evidence-based practice is and how you can get started. Introduces the "six As" framework and emphasises that using some evidence is better than none.
+:::reading[optional][briner2019]
+A practitioner guide that explains what evidence-based practice is and how you can get started. Introduces the Six As framework and Four Sources of evidence, emphasising that using some evidence is better than none.
 
 <div class="reading-questions">
   <div class="label">Read with these questions in mind</div>
