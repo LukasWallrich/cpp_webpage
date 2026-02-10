@@ -159,7 +159,7 @@ Several methods help make feedback sessions genuinely collaborative:
 - **Co-design sessions**: Rather than presenting recommendations, present diagnostic themes and facilitate joint problem-solving. The client brings contextual knowledge; you bring analytical frameworks.
 - **Prioritisation exercises**: When there are multiple findings, involve the client in deciding what matters most. Dot voting, impact/effort matrices, or structured ranking help build consensus.
 
-We'll explore feedback and recommendation presentation in more depth when we cover **designing solutions** in Week 4.
+Block [-@block2011] recommends a counterintuitive time allocation: spend only 10-20% of a feedback meeting presenting your findings, with 60%+ devoted to discussing reactions and deciding how to proceed. The presentation is just the catalyst—the real work happens in surfacing doubts, addressing concerns, and building genuine commitment.
 
 :::reflect
 Think about a recent problem at work. What was visible on the surface? What might have been hidden beneath?
