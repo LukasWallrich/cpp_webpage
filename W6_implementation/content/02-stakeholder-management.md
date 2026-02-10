@@ -1,15 +1,6 @@
 ## 2. Stakeholder management
 
-:::video
-Part 2: Stakeholder management and communication
-~18 minutes
-- How stakeholder positions shift during implementation
-- Maintaining the five beliefs over time
-- Coalition building and maintenance
-- Implementation resistance vs. design resistance
-- Communication planning
-- Public sector considerations
-:::
+*This section is covered in the [Part 1 recording above](#part1), alongside the partnership and engagement content.*
 
 Stakeholder dynamics change as change becomes real. The abstract support people expressed during diagnosis often wobbles when implementation asks them to do something different.
 
@@ -18,11 +9,7 @@ Stakeholder dynamics change as change becomes real. The abstract support people 
 The stakeholder map you created during diagnosis is a snapshot. Implementation creates new dynamics:
 
 :::summary
-**What changes during implementation:**
-- Those who abstractly supported change face concrete disruption
-- Early resisters may become allies once they see the approach
-- New stakeholders emerge as implementation touches their areas
-- Power dynamics shift as change redistributes resources and attention
+**Stakeholder positions shift** as abstract support meets concrete disruption, and power dynamics are redistributed.
 :::
 
 A stakeholder who was a strong supporter might become a blocker when:
@@ -33,15 +20,15 @@ A stakeholder who was a strong supporter might become a blocker when:
 
 <!-- Summary generated from PDF: sources/Levina2009.pdf -->
 :::source[levinaorlikowski2009]
-Levina and Orlikowski examined how power relations shift during a consulting engagement through an ethnographic study of an internet consulting firm and its client. Drawing on Bourdieu's practice theory and genre analysis, they show how everyday communicative practices—meetings, workshops, presentations—both reproduce and transform power dynamics.
+Levina and Orlikowski examined how power relations shift during a consulting engagement through an ethnographic study of an internet consulting firm and its client. Drawing on Bourdieu's practice theory and genre analysis, they show how everyday communicative practices (meetings, workshops, presentations) both reproduce and transform power dynamics.
 
 **Key findings**:
 - Novel, ambiguous engagements create opportunities for marginalized agents to challenge established power relations by drawing on alternative approaches from other contexts
 - When newcomers or lower-status participants adopt practices that help the project succeed (even if they violate organisational norms), they can shift power positions within their own organisations
-- Consulting projects can disrupt power dynamics on *both* sides—not just in the client organisation but also in the consulting firm
+- Consulting projects can disrupt power dynamics on *both* sides, not just in the client organisation but also in the consulting firm
 - IT managers who were initially peripheral gained significant influence by leveraging the consultants' credibility problems
 
-**Key insight**: Implementation creates "liminal spaces" where established boundaries blur and power relations become negotiable. Those who successfully resolve tensions—even by departing from official methods—may advance their positions.
+**Key insight**: Implementation creates "liminal spaces" where established boundaries blur and power relations become negotiable. Those who successfully resolve tensions, even by departing from official methods, may advance their positions.
 :::
 
 Conversely, skeptics sometimes become supporters when:
@@ -52,7 +39,7 @@ Conversely, skeptics sometimes become supporters when:
 
 ### Maintaining the five beliefs
 
-Week 4-5 introduced Armenakis et al.'s [-@armenakis1993] five beliefs framework for building change readiness. During implementation, these beliefs need to be **sustained**, not just created.
+[Week 4-5](../W4_5_designing_solutions/#part3) introduced Armenakis et al.'s [-@armenakis1993] five beliefs framework for building change readiness. During implementation, these beliefs need to be **sustained**, not just created.
 
 | Belief | Initial challenge | Ongoing challenge |
 |--------|-------------------|-------------------|
@@ -78,7 +65,7 @@ Implementation fatigue erodes these beliefs. People who believed change was nece
 
 ### Coalition building and maintenance
 
-Implementation succeeds through coalitions—networks of people who support the change and work to make it happen. Building these coalitions requires ongoing attention.
+Implementation succeeds through coalitions: networks of people who support the change and work to make it happen. Building these coalitions requires ongoing attention.
 
 **Building coalitions:**
 - Identify people with influence (formal and informal)
@@ -92,35 +79,20 @@ Implementation succeeds through coalitions—networks of people who support the 
 - Celebrate collective achievements
 - Manage conflicts within the coalition before they fracture it
 
-:::definition
-"Change, not stasis, is the norm—indeed, the very survival of an organisation is connected with its ability to continually engage with its environment, adapt itself and, where possible, move to a more favourable position."
-Randall, Burnes & Sim [-@randall2019]
-:::
-
-### Implementation resistance vs. design resistance
-
-Resistance during implementation differs from resistance during diagnosis. In Week 3, we explored resistance as *data* about organisational dynamics. During implementation, resistance becomes *friction* that must be navigated.
 
 :::summary
-**Design resistance** (earlier phases):
-- Questioning whether the problem is real
-- Disputing the diagnosis
-- Challenging the proposed solution
-
-**Implementation resistance** (current phase):
-- Struggling with new ways of working
-- Competing priorities and limited capacity
-- Fear of personal consequences
-- Attachment to old routines
+**Implementation resistance vs. design resistance:** Design resistance requires persuasion; implementation resistance often requires **support**.
 :::
+
+Resistance during implementation differs from resistance during diagnosis ([Week 3](../W3_data_diagnosis/#part4)).
+
+**Design resistance** (earlier phases) involves questioning whether the problem is real, disputing the diagnosis, or challenging the proposed solution. **Implementation resistance** (current phase) looks different: struggling with new ways of working, competing priorities and limited capacity, fear of personal consequences, and attachment to old routines.
 
 Implementation resistance is often less about the change itself and more about the *disruption* it creates. People may agree the change is good while still resisting because:
 - They're already overloaded
 - The timing conflicts with other pressures
 - The new way is harder to learn than expected
 - Their colleagues aren't cooperating
-
-The response to implementation resistance is different from the response to design resistance. Design resistance requires persuasion; implementation resistance often requires **support**.
 
 ### Communication planning
 
@@ -145,7 +117,7 @@ Communication principles during implementation:
 
 ### The Pyramid Principle
 
-Developed at McKinsey by Barbara Minto, this framework structures communication for maximum clarity:
+Developed at McKinsey by Barbara Minto [-@minto2010], this framework structures communication for maximum clarity:
 
 - **Lead with the answer**: State your conclusion or recommendation first
 - **Group and summarise**: Organise supporting arguments into logical clusters
@@ -153,9 +125,40 @@ Developed at McKinsey by Barbara Minto, this framework structures communication 
 
 This "top-down" approach contrasts with academic writing (which typically builds to conclusions) but works better in business contexts where readers want the key message immediately. During implementation, this matters because stakeholders are time-poor and need to grasp the essential message quickly.
 
+:::framework
+**Pyramid Principle in practice: a status update**
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+<div>
+
+**Without the Pyramid Principle:**
+
+"We held workshops with three departments last week and got good attendance from Finance but Marketing only sent two people. There were some issues with the new system's reporting module that IT is looking into, and we're also waiting for the vendor to confirm the training dates. On the positive side, the pilot in Finance went well and they've already started using the new dashboard. We think we might need to push the full rollout back by two weeks."
+
+</div>
+<div>
+
+**With the Pyramid Principle:**
+
+"We recommend delaying the full rollout by two weeks. The pilot in Finance succeeded (they're already using the new dashboard) but two issues need resolution first:
+
+**Technical:** The reporting module has bugs that IT and the vendor are addressing.
+
+**Engagement:** Marketing participation is low; we need sponsor intervention to secure their involvement before rollout."
+
+</div>
+</div>
+
+The second version leads with the recommendation, groups supporting points logically, and makes the required decision clear.
+:::
+
+:::reflect
+How do you typically communicate: do you build to your conclusion or lead with the key message? Where might a top-down approach like the Pyramid Principle add value, and where could it backfire?
+:::
+
 ### Public sector considerations
 
-Radnor and O'Mahoney [-@radnor2013] identified distinctive features of public sector consulting that become particularly salient during implementation (Week 2 introduced their research on procurement and culture). During implementation:
+Radnor and O'Mahoney [-@radnor2013] identified distinctive features of public sector consulting that become particularly salient during implementation ([Week 2](../W2_initiation/#part3) introduced their research on procurement and culture). During implementation:
 
 - **Accountability structures**: Multiple layers of oversight can slow progress
 - **Political sensitivity**: Implementation decisions may attract public scrutiny
@@ -168,7 +171,3 @@ These don't make implementation impossible, but they do require different approa
 - Greater attention to communication with external stakeholders
 - Longer timelines with more checkpoints
 - More robust contingency planning
-
-:::reflect
-Think about a change implementation you've experienced. How did stakeholder dynamics shift as the change became more real? What maintained support (or eroded it)?
-:::

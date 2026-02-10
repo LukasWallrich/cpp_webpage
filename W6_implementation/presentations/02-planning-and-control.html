@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>W6: Implementation — Planning &amp; Control</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@700;800&family=Bitter:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/theme/black.css" id="theme">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+
+<!-- ============================================================
+     SLIDE 1: TITLE
+     ============================================================ -->
+<section class="title-slide">
+  <div class="title-text">
+    <h1>Consultancy and<br>Professional Practice</h1>
+    <div class="subtitle">W6: Implementation</div>
+    <p style="font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 1.1em; color: var(--cream); margin-top: 0.6em;">Planning &amp; Control</p>
+    <p class="byline">Dr Lukas Wallrich (<a href="mailto:l.wallrich@bbk.ac.uk">l.wallrich@bbk.ac.uk</a>)</p>
+  </div>
+  <div class="title-image" style="background-image: url('img/winding-path.jpg');"></div>
+  <aside class="notes">
+    <ul>
+      <li>&ldquo;Plans are worthless, but planning is everything&rdquo; (Eisenhower)</li>
+      <li>Tension between needing a plan and holding it loosely</li>
+      <li>This recording introduces a critical distinction: tame vs wicked problems</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 2: THE PLANNING PARADOX (SPECTRUM)
+     Spectrum visible first; explanation + callout as fragments
+     ============================================================ -->
+<section>
+  <h2>The Planning Paradox</h2>
+  <div class="spectrum">
+    <span class="label-left">Too little planning<br><em>Chaos</em></span>
+    <div class="bar"></div>
+    <span class="label-right">Too much planning<br><em>Paralysis</em></span>
+  </div>
+  <div class="fragment" data-fragment-index="1">
+    <p style="margin-top: 1.2em;">The answer isn&rsquo;t just a middle ground. It&rsquo;s a <strong>different kind</strong> of planning:</p>
+    <ul>
+      <li>Plan for <strong>learning and iteration</strong>, not just execution</li>
+      <li>Focus on <em>process</em>: who decides what, how we respond to surprises</li>
+      <li>Build a <strong>navigation system</strong>, not turn-by-turn directions</li>
+    </ul>
+  </div>
+  <div class="callout insight fragment" data-fragment-index="2" style="margin-top: 1em;">
+    <span class="icon">&#128161;</span>
+    <p>Directions fail when the road is closed. A navigation system <strong>recalculates</strong>.</p>
+  </div>
+  <aside class="notes">
+    <ul>
+      <li>Too little = chaos, wasted effort, people at cross purposes</li>
+      <li>Too much = rigid adherence to a plan that doesn&rsquo;t survive contact with reality</li>
+      <li>Key metaphor: navigation system vs turn-by-turn directions</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 3: TAME VS WICKED PROBLEMS (TWO-COL)
+     Boxes appear one at a time; blocks within boxes animate separately
+     ============================================================ -->
+<section class="two-col">
+  <h2>Tame vs. Wicked Problems</h2>
+  <div class="card fragment" data-fragment-index="1">
+    <h3>Tame Problems</h3>
+    <ul class="fragment" data-fragment-index="2">
+      <li>Clear problem definition</li>
+      <li>Agreed success criteria</li>
+      <li>Known solution pathway</li>
+    </ul>
+    <p class="fragment" data-fragment-index="3" style="margin-top: 0.6em; font-size: 0.85em;"><em>Examples:</em> payroll migration, data platform rollout, standardised processes</p>
+  </div>
+  <div class="card fragment" data-fragment-index="4">
+    <h3>Wicked Problems</h3>
+    <ul class="fragment" data-fragment-index="5">
+      <li>Problem definition is contested</li>
+      <li>Stakeholders disagree on success</li>
+      <li>Solving it changes the problem</li>
+    </ul>
+    <p class="fragment" data-fragment-index="6" style="margin-top: 0.6em; font-size: 0.85em;"><em>Examples:</em> culture change, team collaboration, customer relationships</p>
+  </div>
+  <div class="callout warning fragment" data-fragment-index="7">
+    <span class="icon">&#9888;</span>
+    <p>Most organisational change is <strong>wicked</strong>, yet organisations reach for project management tools designed for <strong>tame</strong> problems.</p>
+  </div>
+  <p class="footnote">Based on Edmonstone (2010), drawing on Rittel &amp; Webber (1973)</p>
+  <aside class="notes">
+    <ul>
+      <li>Most important concept in this recording</li>
+      <li>Tame = complicated but plannable step by step</li>
+      <li>Wicked = different in kind, not just degree; solution can&rsquo;t be separated from the problem</li>
+      <li>Edmonstone&rsquo;s core point: PRINCE2, Gantt charts assume predictability that wicked problems don&rsquo;t have</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 4: "CLUMSY" SOLUTIONS (HAS-DIAGONAL)
+     Cards and practice text as fragments
+     ============================================================ -->
+<section class="has-diagonal">
+  <h2>&ldquo;Clumsy&rdquo; Solutions<br>for Wicked Problems</h2>
+  <p style="margin-bottom: 0.8em;">The term sounds pejorative, but it&rsquo;s not.</p>
+  <div class="card fragment" data-fragment-index="1" style="margin-bottom: 0.8em;">
+    <h3>&ldquo;Elegant&rdquo;</h3>
+    <p>Clean, logical, complete. Assumes the problem is well-defined</p>
+  </div>
+  <div class="card fragment" data-fragment-index="2" style="border-color: var(--gold); background: var(--olive-bg);">
+    <h3>&ldquo;Clumsy&rdquo; &#x2713;</h3>
+    <p>Exploratory, incremental, adaptive. Accommodates multiple perspectives</p>
+  </div>
+  <p class="fragment" data-fragment-index="3" style="font-size: 0.85em; margin-top: 0.8em;">In practice: shorter planning horizons, frequent checkpoints, genuine decision points, agile methods within structure.</p>
+  <div class="diagonal-img" style="background-image: url('img/circus-balance.jpg');"></div>
+  <aside class="notes">
+    <ul>
+      <li>Edmonstone borrows &ldquo;clumsy&rdquo; from cultural theory</li>
+      <li>Elegant assumes well-defined problems; clumsy expects surprises</li>
+      <li>Clumsy = shorter horizons, frequent checkpoints, genuine adjustment points</li>
+      <li>Connects to Recording 1: clumsy solutions require genuine collaboration</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 5: FOUR ILLUSIONS (CARD GRID 2x2)
+     Illusion (quote) visible first; reality (gold) revealed on click
+     ============================================================ -->
+<section>
+  <h2>Four Illusions of Change</h2>
+  <p style="font-size: 0.85em; margin-bottom: 0.6em;">Complexity theory highlights four persistent illusions in change management:</p>
+  <div class="card-grid fragment" data-fragment-index="1" style="grid-template-columns: 1fr 1fr;">
+    <div class="card">
+      <h3>Manageability</h3>
+      <p>&ldquo;If we just plan well enough, we can manage this.&rdquo;</p>
+      <p class="fragment" data-fragment-index="2" style="font-size: 0.8em; margin-top: 0.4em; color: var(--gold);">Change is more complex than any plan can capture.</p>
+    </div>
+    <div class="card">
+      <h3>Control</h3>
+      <p>&ldquo;We can control the outcome.&rdquo;</p>
+      <p class="fragment" data-fragment-index="3" style="font-size: 0.8em; margin-top: 0.4em; color: var(--gold);">Market shifts, leadership changes, politics: all beyond anyone&rsquo;s control.</p>
+    </div>
+    <div class="card">
+      <h3>Linearity</h3>
+      <p>&ldquo;Change proceeds in neat steps.&rdquo;</p>
+      <p class="fragment" data-fragment-index="4" style="font-size: 0.8em; margin-top: 0.4em; color: var(--gold);">Reality loops back, jumps forward, detours sideways.</p>
+    </div>
+    <div class="card">
+      <h3>Predictability</h3>
+      <p>&ldquo;We can forecast what will happen.&rdquo;</p>
+      <p class="fragment" data-fragment-index="5" style="font-size: 0.8em; margin-top: 0.4em; color: var(--gold);">&ldquo;Best practice&rdquo; doesn&rsquo;t transfer mechanically between contexts.</p>
+    </div>
+  </div>
+  <div class="callout insight fragment" data-fragment-index="6" style="margin-top: 1em;">
+    <span class="icon">&#128161;</span>
+    <p>The response: plan with <strong>humility</strong>. Build in sensing mechanisms. Develop capability for improvisation within the plan&rsquo;s intent.</p>
+  </div>
+  <aside class="notes">
+    <ul>
+      <li>Four traps consultants fall into repeatedly</li>
+      <li>Don&rsquo;t abandon planning; plan with humility</li>
+      <li>Build sensing mechanisms and genuine decision points</li>
+      <li>Develop capability for improvisation within the plan&rsquo;s intent</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 6: CONSULTANT'S ROLE IN PLANNING (IMG-TEXT + SPECTRUM)
+     ============================================================ -->
+<section class="img-text">
+  <img src="img/coaching-boxing.jpg" alt="Boxing coach guiding a fighter in the ring">
+  <div class="text-content">
+    <h2>The Consultant&rsquo;s Role in Planning</h2>
+    <div class="spectrum fragment" data-fragment-index="1">
+      <span class="label-left">Consultant-led</span>
+      <div class="bar" style="background: linear-gradient(to right, var(--red), var(--olive), var(--red));"></div>
+      <span class="label-right">Hands-off</span>
+    </div>
+    <div class="fragment" data-fragment-index="2">
+      <p>For most change implementations, the sweet spot is <strong>facilitation</strong>:</p>
+      <ul>
+        <li>Consultant brings methodology and asks good questions</li>
+        <li>Client team provides knowledge and <strong>owns the output</strong></li>
+      </ul>
+    </div>
+    <div class="callout insight fragment" data-fragment-index="3" style="margin-top: 0.8em;">
+      <span class="icon">&#128161;</span>
+      <p>If the consultant creates the plan, the client doesn&rsquo;t learn how to plan. <strong>Facilitate the planning.</strong></p>
+    </div>
+  </div>
+  <aside class="notes">
+    <ul>
+      <li>Spectrum from consultant-led (appropriate for specialised technical work) to hands-off (exit phase)</li>
+      <li>Sweet spot: facilitated. Consultant brings methodology, client owns output</li>
+      <li>Connects to Recording 1&rsquo;s capability-building argument</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 7: CLOSE CONTROL
+     Added practical tracking and status reporting points
+     ============================================================ -->
+<section>
+  <h2>Close Control</h2>
+  <div class="fragment" data-fragment-index="1">
+    <p style="margin-bottom: 0.8em;">Even adaptive approaches need close control. It serves three functions:</p>
+    <ul>
+      <li><strong>Monitoring</strong>: things stay roughly on track</li>
+      <li><strong>Early warning</strong>: spotting problems before they escalate</li>
+      <li><strong>Quick response</strong>: enabling rapid adjustments</li>
+    </ul>
+  </div>
+  <div class="fragment" data-fragment-index="2">
+    <p style="margin-top: 1em;">This requires:</p>
+    <ul>
+      <li><strong>Tracking</strong>: regular progress reviews against milestones and KPIs</li>
+      <li><strong>Clear governance</strong>: ownership within the client organisation, not just the consultant</li>
+      <li><strong>Status reporting</strong>: keeping stakeholders informed with honest updates</li>
+    </ul>
+  </div>
+  <div class="callout warning fragment" data-fragment-index="3" style="margin-top: 1em;">
+    <span class="icon">&#9888;</span>
+    <p>Without close control, you find yourself <strong>managing blame</strong> rather than managing change.</p>
+  </div>
+  <p class="footnote">O&rsquo;Mahoney &amp; Markham (2013)</p>
+  <aside class="notes">
+    <ul>
+      <li>O&rsquo;Mahoney &amp; Markham: implementation needs close control even when adaptive</li>
+      <li>Control is valuable for the consultant too; without it, blame replaces management</li>
+      <li>Written content covers risk categories and costing in detail; reference for team project</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 8: AGILE AS AN ALTERNATIVE
+     Waterfall (1/3 left) then Agile (2/3 right) as fragments
+     ============================================================ -->
+<section>
+  <h2>An Alternative: Agile Approaches</h2>
+  <p style="font-size: 0.9em; margin-bottom: 0.8em;">The traditional consulting model follows a linear sequence&mdash;but what if the problem is wicked?</p>
+  <div style="display: flex; align-items: stretch; gap: 1.5em; margin-top: 1em; height: 55vh;">
+    <div class="fragment" data-fragment-index="1" style="flex: 1; display: flex; align-items: center; justify-content: center;">
+      <img src="img/waterfall.png" alt="Waterfall model: diagnosis, design, implementation as sequential phases" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 8px;">
+    </div>
+    <div class="fragment" data-fragment-index="2" style="flex: 2; display: flex; align-items: center; justify-content: center;">
+      <img src="img/agile.png" alt="Agile model: iterative cycles of planning, building, testing, and adapting" style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 8px;">
+    </div>
+  </div>
+  <aside class="notes">
+    <ul>
+      <li>Traditional consulting follows waterfall: diagnose &rarr; design &rarr; implement</li>
+      <li>Agile offers an alternative: iterative cycles that embrace uncertainty</li>
+      <li>Connects to &ldquo;clumsy&rdquo; solutions and the illusions of linearity/predictability</li>
+      <li>Brief introduction only&mdash;the point is that alternatives exist</li>
+    </ul>
+  </aside>
+</section>
+
+<!-- ============================================================
+     SLIDE 9: REFLECTION + BRIDGE
+     ============================================================ -->
+<section>
+  <div class="highlight-box fragment" data-fragment-index="1" style="margin-top: 1em;">
+    <p><span style="font-size: 1.4em; vertical-align: middle;">&#128173;</span> Think about a change initiative that clashed with reality. What, if anything, allowed it to adapt? What prevented successful adaptation?</p>
+  </div>
+  <div class="fragment" data-fragment-index="2" style="margin-top: 2em; text-align: center;">
+    <p style="font-family: 'Outfit', sans-serif; font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.15em; color: var(--gold); margin-bottom: 0.4em;">&rarr; Coming Up Next</p>
+    <p style="font-family: 'Outfit', sans-serif; font-size: 1.6em; font-weight: 700; color: var(--cream); line-height: 1.3;">Setting the right targets<br>and managing expectations.</p>
+  </div>
+  <aside class="notes">
+    <ul>
+      <li>Three key themes: tame vs wicked, plan with humility, facilitate don&rsquo;t direct</li>
+      <li>Bridge to Recording 3: targets, the 70% myth, and sustainability</li>
+    </ul>
+  </aside>
+</section>
+
+</div><!-- /slides -->
+</div><!-- /reveal -->
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/plugin/notes/notes.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    width: 1920,
+    height: 1080,
+    margin: 0.04,
+    minScale: 0.2,
+    maxScale: 2.0,
+    center: false,
+    transition: 'fade',
+    transitionSpeed: 'default',
+    backgroundTransition: 'fade',
+    slideNumber: true,
+    pdfSeparateFragments: false,
+    plugins: [ RevealNotes ]
+  });
+</script>
+</body>
+</html>

@@ -1,4 +1,16 @@
 {
+  "rigby2016": {
+    "formatted_reference": "Rigby, D. K., Sutherland, J. & Takeuchi, H. (2016). Embracing Agile. *Harvard Business Review*, 94(5), 40–50.",
+    "type": "article",
+    "authors": ["Rigby, D. K.", "Sutherland, J.", "Takeuchi, H."],
+    "year": 2016,
+    "doi": null,
+    "OA_link": "https://agileforall.com/wp-content/uploads/2016/08/R1605B-PDF-ENG.pdf",
+    "BBK_link": null,
+    "oa_check_failed": null,
+    "oa_last_checked": null,
+    "notes": "Accessible overview of agile methods spreading beyond software into general management"
+  },
   "block2011": {
     "formatted_reference": "Block, P. (2011). *Flawless Consulting: A guide to getting your expertise used* (3rd ed.). Pfeiffer.",
     "type": "book",
@@ -202,18 +214,19 @@
     "notes": "Memetics approach to management idea diffusion"
   },
   "randall2019": {
-    "formatted_reference": "Randall, J., Burnes, B., & Sim, A. (2019). *Management Consultancy: The Role of the Change Agent*. Palgrave Macmillan.",
+    "formatted_reference": "Randall, J., Burnes, B., & Sim, A. (2018). *Management Consultancy: The Role of the Change Agent*. Red Globe Press.",
     "type": "book",
     "authors": ["Randall, J.", "Burnes, B.", "Sim, A."],
-    "year": 2019,
+    "year": 2018,
     "title": "Management Consultancy: The Role of the Change Agent",
-    "publisher": "Palgrave Macmillan",
-    "doi": "10.1007/978-3-319-74432-9",
+    "publisher": "Red Globe Press",
+    "isbn": "9781137605214",
+    "doi": null,
     "OA_link": null,
     "BBK_link": null,
-    "oa_check_failed": null,
+    "oa_check_failed": "N/A",
     "oa_last_checked": null,
-    "notes": "Full book on consultants as change agents - discusses FUD-DING"
+    "notes": "Textbook on consultants as change agents; covers culture, ethics, contracting, and organisational development"
   },
   "wright2009": {
     "formatted_reference": "Wright, C. (2009). Inside out? Organizational membership, ambiguity and the ambivalent identity of the internal consultant. *British Journal of Management*, *20*(3), 309–322.",
@@ -1023,7 +1036,7 @@
     "notes": "Debunks the '70% of change initiatives fail' myth; finds no valid empirical evidence for commonly cited failure rates"
   },
   "edmonstone2010": {
-    "formatted_reference": "Edmonstone, J. (2010). A new approach to project managing change. *British Journal of Healthcare Management*, *16*(5), 114–119.",
+    "formatted_reference": "Edmonstone, J. (2010). A new approach to project managing change. *British Journal of Healthcare Management*, *16*(5), 225–230.",
     "type": "article",
     "authors": ["Edmonstone, J."],
     "year": 2010,
@@ -1031,9 +1044,9 @@
     "journal": "British Journal of Healthcare Management",
     "volume": "16",
     "issue": "5",
-    "pages": "114-119",
-    "doi": null,
-    "OA_link": null,
+    "pages": "225-230",
+    "doi": "10.12968/bjhc.2010.16.5.47936",
+    "OA_link": "https://www.researchgate.net/profile/John-Edmonstone/publication/269640099_A_new_approach_to_project_managing_change/links/574c583f08ae78f2d2018846/A-new-approach-to-project-managing-change.pdf",
     "BBK_link": null,
     "oa_check_failed": null,
     "oa_last_checked": null,
@@ -1054,7 +1067,7 @@
     "notes": "Illusions of change management; resistance at individual, group, and organisational levels"
   },
   "levina2005": {
-    "formatted_reference": "Levina, N., & Vaast, E. (2005). The emergence of boundary spanning competence in practice: Implications for implementation and use of information systems. *MIS Quarterly*, *29*(2), 335–363.",
+    "formatted_reference": "Levina, N., & Vaast, E. (2005). The emergence of boundary spanning competence in practice: Implications for implementation and use of information systems. *MIS Quarterly*, *29*(2), 335–364.",
     "type": "article",
     "authors": ["Levina, N.", "Vaast, E."],
     "year": 2005,
@@ -1062,7 +1075,7 @@
     "journal": "MIS Quarterly",
     "volume": "29",
     "issue": "2",
-    "pages": "335-363",
+    "pages": "335-364",
     "doi": "10.2307/25148682",
     "OA_link": null,
     "BBK_link": null,
@@ -1384,5 +1397,55 @@
     "oa_check_failed": true,
     "oa_last_checked": "2026-02-03",
     "notes": "Brainwriting outperforms traditional brainstorming; W4-5 reading on creative problem-solving techniques"
+  },
+  "beernohria2000": {
+    "formatted_reference": "Beer, M., & Nohria, N. (2000). Cracking the code of change. *Harvard Business Review*, *78*(3), 133–141.",
+    "type": "article",
+    "authors": ["Beer, M.", "Nohria, N."],
+    "year": 2000,
+    "title": "Cracking the code of change",
+    "journal": "Harvard Business Review",
+    "volume": "78",
+    "issue": "3",
+    "pages": "133-141",
+    "doi": null,
+    "OA_link": null,
+    "BBK_link": null,
+    "oa_check_failed": "N/A",
+    "oa_last_checked": null,
+    "notes": "Source of the '70% of change initiatives fail' claim (stated without evidence); introduces Theory E vs Theory O framework. Often miscited as 'Breaking the Code of Change' (their edited book, same year)."
+  },
+  "minto2010": {
+    "formatted_reference": "Minto, B. (2010). *The Pyramid Principle: Logic in Writing and Thinking* (3rd ed.). Financial Times/Prentice Hall.",
+    "type": "book",
+    "authors": ["Minto, B."],
+    "year": 2010,
+    "title": "The Pyramid Principle: Logic in Writing and Thinking",
+    "edition": "3rd",
+    "publisher": "Financial Times/Prentice Hall",
+    "isbn": "978-0-273-71051-6",
+    "doi": null,
+    "OA_link": null,
+    "BBK_link": null,
+    "oa_check_failed": "N/A",
+    "oa_last_checked": null,
+    "notes": "Classic McKinsey communication framework; top-down structuring of arguments for business contexts"
+  },
+  "manheim2023": {
+    "formatted_reference": "Manheim, D. (2023). Building less-flawed metrics: Understanding and creating better measurement and incentive systems. *Patterns*, *4*(10), 100842.",
+    "type": "article",
+    "authors": ["Manheim, D."],
+    "year": 2023,
+    "title": "Building less-flawed metrics: Understanding and creating better measurement and incentive systems",
+    "journal": "Patterns",
+    "volume": "4",
+    "issue": "10",
+    "pages": "100842",
+    "doi": "10.1016/j.patter.2023.100842",
+    "OA_link": "http://www.cell.com/article/S2666389923002210/pdf",
+    "BBK_link": null,
+    "oa_check_failed": false,
+    "oa_last_checked": "2026-02-09",
+    "notes": "Systematic framework for metric design; Campbell's and Goodhart's Laws applied to organisational measurement; CC-BY license"
   }
 }

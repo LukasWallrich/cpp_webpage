@@ -75,7 +75,7 @@ function processInTextCitations(markdown) {
       return `<span class="citation-error" title="Source not found">[${key}?]</span>`;
     }
     // Year-only citation for narrative use (e.g., "Hodges [-@hodges2017]" → "Hodges (2017)")
-    return `(<span class="citation" data-source-key="${key}">${source.year}</span>)`;
+    return `<span class="citation-ref">(<span class="citation" data-source-key="${key}">${source.year}</span>)</span>`;
   });
 
   // Then handle standard citations [@key] or [@key1; @key2]
@@ -92,7 +92,7 @@ function processInTextCitations(markdown) {
       return `<span class="citation" data-source-key="${key}">${shortCite}</span>`;
     });
 
-    return `(${citations.join('; ')})`;
+    return `<span class="citation-ref">(${citations.join('; ')})</span>`;
   });
 
   return markdown;

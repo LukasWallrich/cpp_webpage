@@ -618,6 +618,11 @@ a {
   margin-bottom: 0.5rem;
 }
 
+/* In-text citation wrapper - prevent line break between ( and author */
+.citation-ref {
+  white-space: nowrap;
+}
+
 /* In-text citations */
 .citation {
   position: relative;
