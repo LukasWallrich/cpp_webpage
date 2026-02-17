@@ -138,7 +138,7 @@ This gives valuable information about:
 - The client's *real* concerns (which may differ from stated concerns)
 
 <!-- Summary generated from PDF: sources/Cockman1999.pdf -->
-:::source[cockman1999]
+:::source[cockman1999ch10]
 Cockman, Evans and Reynolds provide a comprehensive guide to collecting and feeding back data in organisational consulting engagements. They argue that effective consultants must move beyond their narrow technical discipline to gather information about human dimensions of organisational problems, including feelings, relationships, and team dynamics alongside systems and procedures.
 
 **Key findings/arguments**:

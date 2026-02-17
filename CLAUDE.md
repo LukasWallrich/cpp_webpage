@@ -56,6 +56,44 @@ Part 1: Title
 :::
 ```
 
+### `:::summary` processing order
+
+**`:::summary` blocks are processed last** in `scripts.js`. All other `:::` blocks (reflect, source, framework, etc.) are converted to HTML first. This means:
+
+- The summary regex captures everything between its closing `:::` and the next `###` heading as expandable "Read more" details.
+- Other `:::` blocks placed between a summary and the next `###` will be swallowed into the summary's details, because their `:::` markers are already gone (replaced with HTML) by the time the summary regex runs.
+- **The only reliable boundary for ending summary details is a `###` heading.**
+- To keep content (like a `:::reflect` block) outside a summary card, place it after the next `###` heading.
+
+## Citation Syntax
+
+Citations use Pandoc-style syntax and are rendered as clickable popups. The citation key must exist in `sources.json`.
+
+**Two formats:**
+
+| Syntax | Renders as | Use when |
+|--------|------------|----------|
+| `[@schein1987]` | (Schein, 1987) | Parenthetical citation - author not mentioned in sentence |
+| `[-@schein1987]` | (1987) | Author already named in sentence |
+
+**Examples:**
+
+```markdown
+<!-- CORRECT: Author in sentence + year-only citation -->
+Schein [-@schein1987] emphasises that clients own both the problem and the solution.
+→ Renders: Schein (1987) emphasises that clients own both the problem and the solution.
+
+<!-- CORRECT: Parenthetical citation -->
+This aligns with process consultation principles [@schein1987].
+→ Renders: This aligns with process consultation principles (Schein, 1987).
+
+<!-- WRONG: Missing author name before year-only citation -->
+As [-@schein1987] emphasises...
+→ Renders: As (1987) emphasises... ← Missing author name!
+```
+
+**Key rule:** When using `[-@key]`, always include the author name before it in your sentence.
+
 ## Skills
 
 Make sure to call on the following skills or commands when relevant:
@@ -102,6 +140,54 @@ The command reads the PDF, extracts key findings, and outputs a formatted source
 ### /fact-check
 
 Verifies factual claims and source citations in learning content. See `.claude/commands/fact-check.md` for details.
+
+## Pixabay Image Downloads
+
+To download images from Pixabay, use their API with the key stored in `.env` (`PIXABAY_API_KEY`). To find an image by its Pixabay photo ID (from the URL), query the API and use the `largeImageURL` field:
+
+```bash
+# Look up image by ID
+curl -s "https://pixabay.com/api/?key=$(grep PIXABAY_API_KEY .env | cut -d= -f2)&id=PHOTO_ID" | python3 -m json.tool
+
+# Or search by keywords
+curl -s "https://pixabay.com/api/?key=$(grep PIXABAY_API_KEY .env | cut -d= -f2)&q=rope+knotted&image_type=photo" | python3 -m json.tool
+```
+
+The response includes `largeImageURL` (1280px) and `webformatURL` (640px). Download with `curl -sL "<url>" -o path/to/image.jpg`.
+
+## Generating Presentation PDFs
+
+The reveal.js HTML presentations in each week's `presentations/` folder can be exported to PDF for student download. Use `decktape` (with the reveal plugin) to capture slides, then compress with Ghostscript:
+
+```bash
+# 1. Start a local server
+npx serve -l 8787 . &
+
+# 2. Generate PDF with decktape
+npx decktape reveal --size 1920x1080 --pause 2000 --load-pause 3000 \
+  "http://localhost:8787/W7_concluding_and_evaluating/presentations/01-evaluation.html" \
+  "W7_concluding_and_evaluating/presentations/01-evaluation.pdf"
+
+# 3. Compress with Ghostscript (reduces ~24MB → ~1.6MB)
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook \
+  -dNOPAUSE -dBATCH -dQUIET \
+  -sOutputFile=output_compressed.pdf input.pdf
+mv output_compressed.pdf input.pdf
+
+# 4. Stop the server
+pkill -f "serve -l 8787"
+```
+
+**Important:** Do not use Playwright's `page.pdf()` or Chrome's native print-to-PDF with `?print-pdf` — these break the slide layouts (missing title background images, broken two-column slides). Decktape captures each slide as rendered in the browser, producing correct output.
+
+After generating PDFs, update the download links in the corresponding `content/` markdown files to point to `.pdf` instead of `.pptx`:
+
+```html
+<a href="presentations/01-evaluation.pdf" class="download-btn">
+  ...
+  Download slides (PDF)
+</a>
+```
 
 ## Deployment
 

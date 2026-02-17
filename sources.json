@@ -1,4 +1,52 @@
 {
+  "argyris1991": {
+    "formatted_reference": "Argyris, C. (1991). Teaching Smart People How to Learn. *Harvard Business Review*, 69(3), 99–109.",
+    "type": "journal_article",
+    "authors": ["Argyris, C."],
+    "year": 1991,
+    "doi": null,
+    "OA_link": "https://hbr.org/1991/05/teaching-smart-people-how-to-learn",
+    "BBK_link": null,
+    "oa_check_failed": null,
+    "oa_last_checked": null,
+    "notes": "Classic article on why professionals struggle to learn from failure. Single-loop vs double-loop learning. Used in W7 learning and review section."
+  },
+  "schon1983": {
+    "formatted_reference": "Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.",
+    "type": "book",
+    "authors": ["Schön, D. A."],
+    "year": 1983,
+    "doi": null,
+    "OA_link": null,
+    "BBK_link": null,
+    "oa_check_failed": "N/A",
+    "oa_last_checked": null,
+    "notes": "Foundational text on reflection-in-action and reflection-on-action. Used in W7 learning and review section, revisited experientially in W9."
+  },
+  "maor2017": {
+    "formatted_reference": "Maor, D., Reich, A. & Yocarini, L. (2017). The people power of transformations. *McKinsey & Company*.",
+    "type": "report",
+    "authors": ["Maor, D.", "Reich, A.", "Yocarini, L."],
+    "year": 2017,
+    "doi": null,
+    "OA_link": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20people%20power%20of%20transformations/the-people-power-of-transformations.pdf",
+    "BBK_link": null,
+    "oa_check_failed": null,
+    "oa_last_checked": "2026-02-15",
+    "notes": "McKinsey survey (n=1,487) showing transformation success rates vary dramatically by organisational level: CEOs 34%, frontline employees 6%. Used in W7 to illustrate perspective-dependence of evaluation. Main article URL broken as of Feb 2026; PDF link used instead."
+  },
+  "abrahamson1996": {
+    "formatted_reference": "Abrahamson, E. (1996). Management Fashion. *Academy of Management Review*, 21(1), 254–285.",
+    "type": "article",
+    "authors": ["Abrahamson, E."],
+    "year": 1996,
+    "doi": "10.5465/amr.1996.9602161572",
+    "OA_link": null,
+    "BBK_link": null,
+    "oa_check_failed": null,
+    "oa_last_checked": "2026-02-15",
+    "notes": "Foundational model of how management knowledge is produced and disseminated as fashion. Referenced in W7 via Heusinkveld & Benders (2005) for the codifying-abstracting-translating framework."
+  },
   "rigby2016": {
     "formatted_reference": "Rigby, D. K., Sutherland, J. & Takeuchi, H. (2016). Embracing Agile. *Harvard Business Review*, 94(5), 40–50.",
     "type": "article",
@@ -601,7 +649,7 @@
     "oa_last_checked": "2026-01-26",
     "notes": "Overview of people analytics in HR - closed access, no OA version available. Note: Birkbeck unfortunately does not have access to the full text. Based on abstract: argues that people analytics can transform HR from a cost center to a profit center by using data and emerging technology (AI, machine learning) to drive business outcomes, improve talent acquisition, and enhance employee experience."
   },
-  "cockman1999": {
+  "cockman1999ch10": {
     "formatted_reference": "Cockman, P., Evans, B., & Reynolds, P. (1999). Collecting Data and Feeding it Back. In *Consulting for Real People: A Client-Centred Approach for Change Agents and Leaders* (Chapter 10). McGraw-Hill.",
     "type": "book_chapter",
     "authors": ["Cockman, P.", "Evans, B.", "Reynolds, P."],
@@ -1108,7 +1156,7 @@
     "title": "How can we hand over projects better?",
     "publisher": "Association for Project Management",
     "doi": null,
-    "OA_link": "https://www.apm.org.uk/resources/find-a-resource/how-can-we-hand-over-projects-better/",
+    "OA_link": "https://www.apm.org.uk/media/vycklp2w/handoverreport2017final.pdf",
     "BBK_link": null,
     "oa_check_failed": false,
     "oa_last_checked": "2026-02-03",
@@ -1224,7 +1272,7 @@
     "volume": "6",
     "issue": "3",
     "pages": "222-247",
-    "doi": "10.1504/IJSEM.2014.065676",
+    "doi": "10.1504/IJSEM.2014.064298",
     "OA_link": null,
     "BBK_link": null,
     "oa_check_failed": null,
@@ -1241,7 +1289,7 @@
     "volume": "38",
     "issue": "5",
     "pages": "305-314",
-    "doi": "10.1108/00251740010340517",
+    "doi": "10.1108/00251740010340481",
     "OA_link": null,
     "BBK_link": null,
     "oa_check_failed": null,
@@ -1298,22 +1346,22 @@
     "oa_last_checked": "2026-02-03",
     "notes": "Technology culture's 'fail fast' mantra and what we can learn from failure. W7 reference."
   },
-  "buchanan2000": {
-    "formatted_reference": "Buchanan, D. A. (2000). The lived experience of high-velocity change: A hospital case study. *American Journal of Business*, *15*(1), 19–27.",
+  "buchanan2003": {
+    "formatted_reference": "Buchanan, D. A. (2003). Demands, instabilities, manipulations, careers: The lived experience of driving change. *Human Relations*, *56*(6), 663–684.",
     "type": "article",
     "authors": ["Buchanan, D. A."],
-    "year": 2000,
-    "title": "The lived experience of high-velocity change: A hospital case study",
-    "journal": "American Journal of Business",
-    "volume": "15",
-    "issue": "1",
-    "pages": "19-27",
-    "doi": "10.1108/19355181200000003",
-    "OA_link": null,
+    "year": 2003,
+    "title": "Demands, instabilities, manipulations, careers: The lived experience of driving change",
+    "journal": "Human Relations",
+    "volume": "56",
+    "issue": "6",
+    "pages": "663-684",
+    "doi": "10.1177/00187267030566002",
+    "OA_link": "https://www.researchgate.net/publication/247717631_Demands_Instabilities_Manipulations_Careers_The_Lived_Experience_of_Driving_Change/link/5a3804c6aca272a6ec1e78db/download",
     "BBK_link": null,
     "oa_check_failed": null,
-    "oa_last_checked": null,
-    "notes": "Leicester NHS BPR case study showing competing stakeholder narratives. W7 reference."
+    "oa_last_checked": "2026-02-15",
+    "notes": "Hospital change case study showing competing stakeholder narratives and political dimensions of driving change. Replaces previous buchanan2000 entry (which had incorrect journal details). W7 reference."
   },
   "brown2008": {
     "formatted_reference": "Brown, T. (2008). Design thinking. *Harvard Business Review*, *86*(6), 84–92.",
@@ -1447,5 +1495,20 @@
     "oa_check_failed": false,
     "oa_last_checked": "2026-02-09",
     "notes": "Systematic framework for metric design; Campbell's and Goodhart's Laws applied to organisational measurement; CC-BY license"
+  },
+  "huczynski1993": {
+    "formatted_reference": "Huczynski, A. A. (1993). *Management Gurus: What Makes Them and How to Become One*. Routledge.",
+    "type": "book",
+    "authors": ["Huczynski, A. A."],
+    "year": 1993,
+    "title": "Management Gurus: What Makes Them and How to Become One",
+    "publisher": "Routledge",
+    "isbn": "9780415069113",
+    "doi": null,
+    "OA_link": null,
+    "BBK_link": null,
+    "oa_check_failed": "N/A",
+    "oa_last_checked": null,
+    "notes": "Foundational text on management guru ideas and their diffusion; examines why management ideas gain popularity. Referenced in W7 alongside Abrahamson (1996) for commodification of management knowledge."
   }
 }
