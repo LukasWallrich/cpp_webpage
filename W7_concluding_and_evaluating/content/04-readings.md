@@ -46,7 +46,7 @@ Heusinkveld and Benders examine how consultancies develop and package management
 :::reading[core][oshea1997]
 O'Shea and Madigan's chapter tells the story of Figgie International, a Fortune 500 conglomerate that paid over $75 million in consulting fees between 1989 and 1994 to firms including Boston Consulting Group, Deloitte & Touche, and Andersen Consulting. The goal was to transform Figgie into a "world-class manufacturer." Instead, the company nearly went bankrupt, thousands of employees lost their jobs, and Figgie eventually sued the consultants.
 
-The case is valuable because responsibility is genuinely shared: Harry Figgie's autocratic management style, the consultants' failure to challenge unrealistic expectations, scope creep across multiple overlapping engagements, and a lack of honest evaluation all contributed. As you read, pay attention to the warning signs that emerged during the engagements and consider what the consultants could — and should — have done differently. The PDF is available on Moodle.
+The case is valuable because responsibility is genuinely shared: Harry Figgie's autocratic management style, the consultants' failure to challenge unrealistic expectations, scope creep across multiple overlapping engagements, and a lack of honest evaluation all contributed. As you read, pay attention to the warning signs that emerged during the engagements and consider what the consultants could — and should — have done differently. [Access via Birkbeck library](https://contentstore.cla.co.uk/secure/link?id=40bb3d5e-3c69-f011-92dd-ec91adc00601)
 
 <div class="reading-questions">
   <div class="label">Read with these questions in mind</div>
