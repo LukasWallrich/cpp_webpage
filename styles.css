@@ -1246,6 +1246,53 @@ footer {
   line-height: 1.3;
 }
 
+/* Takeaways bar - full-width link below week cards */
+.takeaways-bar {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.25rem 1.5rem;
+  margin-top: 0.5rem;
+  background: linear-gradient(to right, #2D2A24, #3D3A34);
+  border-radius: 12px;
+  text-decoration: none;
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.takeaways-bar:hover {
+  box-shadow: 0 4px 16px rgba(45, 42, 36, 0.3);
+  transform: translateY(-2px);
+}
+
+.takeaways-label {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.takeaways-title {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 600;
+  flex: 1;
+}
+
+.takeaways-arrow {
+  font-size: 1.25rem;
+  color: rgba(255, 255, 255, 0.5);
+  transition: transform 0.2s, color 0.2s;
+}
+
+.takeaways-bar:hover .takeaways-arrow {
+  transform: translateX(4px);
+  color: rgba(255, 255, 255, 0.9);
+}
+
 /* Coming soon state */
 .week-card.coming-soon {
   opacity: 0.55;
